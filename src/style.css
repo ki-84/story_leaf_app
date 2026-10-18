@@ -12,4 +12,6 @@ html[lang="en"] .hero h1,html[lang="de"] .hero h1,html[lang="fr"] .hero h1,html[
 @media(max-width:800px){.hero-art-caption strong{font-size:15px}}
 @media(max-width:600px){.hero-art-caption strong{font-size:17px}.hero h1{font-size:clamp(29px,9.2vw,38px)}.hero-buttons{gap:18px}}
 html[lang="ja"] h2{text-wrap:wrap}
+.popo-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.mallow-grid{grid-template-columns:1fr}.mallow-grid .book-card{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:0 24px;align-content:center}.mallow-grid .book-cover{grid-row:1/5}.mallow-grid .book-meta{margin-top:0}
 @media(max-width:600px){.mallow-grid{grid-template-columns:1fr;gap:23px}.mallow-grid .book-card{display:grid;grid-template-columns:.85fr 1fr;gap:0 17px;align-items:start}.mallow-grid .book-cover{grid-row:1/5}.mallow-grid .book-meta{font-size:8px;margin-top:0}.mallow-grid .book-card h4{font-size:19px;margin-block:5px}.mallow-grid .book-card p{font-size:11px}.mallow-grid .book-card .text-button{font-size:10px}}
+@media(max-width:600px){.popo-grid .book-card:first-child{display:block;grid-column:auto}.popo-grid .book-card:first-child .book-meta{margin-top:12px}.popo-grid .book-card:first-child h4{margin-block:5px}.popo-grid .book-card:first-child p{margin-bottom:7px}}

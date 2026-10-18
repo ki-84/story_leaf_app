@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.parse import urlparse, unquote
 import xml.etree.ElementTree as ET
 
-from build import LOCALE_ORDER, script_json
+from build import LOCALE_ORDER, PUBLIC_BOOK_IDS, script_json
 
 ROOT = Path(__file__).resolve().parent
 PUBLIC = ROOT / "public"
@@ -61,10 +61,14 @@ def main():
     assert PUBLIC.is_dir(), "Run build.py first"
     books = json.loads((ROOT / "data/books.json").read_text())
     manifest = json.loads((ROOT / "data/audio-manifest.json").read_text())
-    assert len(books) == 8
-    assert len({book['id'] for book in books}) == 8
+    assert tuple(book['id'] for book in books) == PUBLIC_BOOK_IDS
     assert all(book['license'] == 'All Rights Reserved' for book in books)
-    assert sum(len(book['pages']) for book in books) == len(manifest) == 32
+    assert sum(len(book['pages']) for book in books) == len(manifest) == 12
+    for root in (ROOT, PUBLIC):
+        for kind in ('books', 'audio'):
+            assert {p.name for p in (root / 'assets' / kind).iterdir() if p.is_dir()} == set(PUBLIC_BOOK_IDS), f'Unexpected published assets in {root}/assets/{kind}'
+    expected_audio = {p['audio'] for b in books for p in b['pages']}
+    assert set(manifest) == expected_audio
     for book in books:
         for page in book['pages']:
             audio = PUBLIC / page['audio']
@@ -104,7 +108,7 @@ def main():
     sitemap = ET.parse(PUBLIC / 'sitemap.xml')
     assert len(sitemap.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}url')) == 23
     assert '\\u003c' in script_json({'text':'</script>'})
-    print('PASS: 22 locales, all links/assets, SEO metadata, 8 books and 32 matching audio files')
+    print('PASS: 22 locales, all links/assets, SEO metadata, only 3 approved books and 12 matching audio files')
 
 
 if __name__ == '__main__':

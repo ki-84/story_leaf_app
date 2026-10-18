@@ -7,9 +7,8 @@ https://ki-84.github.io/story_leaf_support/en/ を維持します。
 
 ## 内容
 
-- 最近のオリジナル「Popo, Mumu & Nemu」5冊
-- カピバラのムギが主役の「Mallow Town」3冊
-- 各作品の冒頭4ページの試し読み、ページ別の英語朗読（全32ファイル）
+- 公開作品は「The Little Wiggle Dance」「Half a Roll」「The Best Seat」の3冊のみ
+- 各作品の冒頭4ページの試し読み、ページ別の英語朗読（全12ファイル）
 - 公開中の App Store 掲載言語に合わせた22ロケール
 - iPhone / iPad 向けの App Store 導線
 - 各言語の静的HTML、canonical / hreflang、OGP、構造化データ、サイトマップ
@@ -33,7 +32,7 @@ python3 -m http.server 4173 --directory public --bind 127.0.0.1
 
 - `src/index.html` / `style.css` / `app.js`: 共通UI
 - `locales/*.json`: ページ文言と作品ごとの紹介文
-- `data/books.json`: 8冊の抜粋。原本の本文・ページ順を維持
+- `data/books.json`: 公開する3冊の抜粋。原本の本文・ページ順を維持
 - `assets/books/`: 表紙と冒頭ページの軽量WebP
 - `assets/audio/`: ページ単位のMP3。再生操作後だけ読み込み、ページ移動・閉じる操作で停止
 - `data/audio-manifest.json`: 本文、音声SHA-256、生成設定、長さ
@@ -51,7 +50,9 @@ Pillow が必要です。承認・配信済みの原本から抜粋します。
 python3 prepare_assets.py
 ```
 
-`prepare_assets.py` の対象8冊を変更した場合は、各言語の `summaries` も同じ順で更新します。
+公開対象の追加はユーザーが指定した場合のみ。`build.py` の `PUBLIC_BOOK_IDS` と
+`prepare_assets.py`、各言語の `summaries` を同じ順で更新します。
+`verify.py` は、対象外の書籍画像・音声が配信フォルダに残っている場合も失敗します。
 画像以外の元の書籍データは変更しません。
 
 ## 朗読音声の更新

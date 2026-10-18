@@ -10,9 +10,7 @@ ROOT = Path(__file__).resolve().parent
 APP = ROOT.parent.parent
 BOOKS = [
     ("pb-en-0732", "popo"), ("pb-en-0728", "popo"),
-    ("pb-en-0730", "popo"), ("pb-en-0731", "popo"),
-    ("pb-en-0729", "popo"), ("pb-en-0708", "mallow"),
-    ("pb-en-0714", "mallow"), ("pb-en-0715", "mallow"),
+    ("pb-en-0708", "mallow"),
 ]
 
 

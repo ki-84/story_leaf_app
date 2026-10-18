@@ -11,6 +11,7 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parent
 DEFAULT_URL = "https://ki-84.github.io/story_leaf_app/"
 STORE_URL = "https://apps.apple.com/app/id6799618264"
+PUBLIC_BOOK_IDS = ("pb-en-0732", "pb-en-0728", "pb-en-0708")
 LOCALE_ORDER = ["ja", "en", "de", "es", "fr", "it", "nl", "pt-BR", "pt-PT", "ru", "uk", "pl", "tr", "ar", "hi", "ko", "zh-Hans", "zh-Hant", "th", "vi", "id", "ms"]
 
 
@@ -47,6 +48,7 @@ def main():
         shutil.copyfile(ROOT / "src" / file, output / file)
     locales = {locale: json.loads((ROOT / "locales" / f"{locale}.json").read_text()) for locale in LOCALE_ORDER}
     books = json.loads((ROOT / "data/books.json").read_text())
+    assert tuple(book["id"] for book in books) == PUBLIC_BOOK_IDS
     template = (ROOT / "src/index.html").read_text()
     for locale, ui in locales.items():
         fields = {key: escape(value) for key, value in ui.items() if isinstance(value, str)}
@@ -55,6 +57,7 @@ def main():
         fields["alternates"] = "\n  ".join(f'<link rel="alternate" hreflang="{loc}" href="{base_url}{loc}/">' for loc in LOCALE_ORDER)
         fields["alternates"] += f'\n  <link rel="alternate" hreflang="x-default" href="{base_url}">'
         fields["language_links"] = "".join('<a href="../{loc}/" lang="{loc}" hreflang="{loc}" dir="auto" {current}>{name}</a>'.format(loc=loc, current='aria-current="page"' if loc == locale else '', name=escape(locales[loc]['language_name'])) for loc in LOCALE_ORDER)
+        assert len(ui["summaries"]) == len(books)
         cards = [render_card(book, summary, ui) for book, summary in zip(books, ui["summaries"])]
         fields["popo_cards"] = "\n".join(card for card, book in zip(cards, books) if book["series"] == "popo")
         fields["mallow_cards"] = "\n".join(card for card, book in zip(cards, books) if book["series"] == "mallow")

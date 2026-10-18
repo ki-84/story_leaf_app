@@ -1837,3 +1837,16 @@ html[lang="ja"] h2 {
  .closing-copy>p:not(.eyebrow):not(.store-note) { font-size:13px; }
  .closing .store-button { width:100%; }
 }
+
+/* Free reading is a primary benefit, beside the main download action. */
+.free-promise { display:inline-flex; align-items:center; gap:10px; max-width:100%; padding:8px 15px; margin-bottom:18px; background:var(--green); color:#fffaf0; border-radius:8px; font-size:19px; font-weight:800; line-height:1.5; }
+.free-promise>span { display:grid; place-items:center; flex-shrink:0; width:22px; height:22px; border-radius:50%; background:var(--yellow); color:var(--green); font-size:15px; }
+.closing .closing-free { font-size:19px; letter-spacing:0; line-height:1.5; }
+.reader-end .reader-free { font-size:18px; font-weight:800; margin-bottom:7px; }
+@media(max-width:800px) {
+ .free-promise,.closing .closing-free { font-size:17px; }
+}
+@media(max-width:600px) {
+ .free-promise { font-size:18px; padding:8px 13px; margin-bottom:16px; }
+ .hero .store-button { gap:13px; }
+}

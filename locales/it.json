@@ -1,8 +1,8 @@
 {
   "language_name": "Italiano",
-  "eyebrow": "Un po’ d’inglese, ogni giorno.",
-  "hero_title": "Piccole storie.\nUn mondo che cresce.",
-  "hero_body": "Un sorriso. Un’emozione che resta. Scopri il piacere dell’inglese, un albo illustrato alla volta.",
+  "eyebrow": "Lettura estensiva",
+  "hero_title": "Lettura estensiva.\nL’inglese nelle storie.",
+  "hero_body": "842 albi facili per leggere e ascoltare inglese ogni giorno. Scopri la lettura estensiva al tuo ritmo, attraverso storie che puoi capire e apprezzare.",
   "browse": "Scopri le storie",
   "download": "Scarica su App Store",
   "free_note": "Gratis · Acquisti in-app",
@@ -52,8 +52,8 @@
     "Un panino, due amici e un piccolo gesto gentile.",
     "Dove troverà Mugi il posto giusto per sedersi?"
   ],
-  "page_title": "Story Leaf — Piccole storie. Un mondo che cresce.",
-  "meta_description": "Un sorriso. Un’emozione che resta. Scopri il piacere dell’inglese, un albo illustrato alla volta. 842 albi illustrati in inglese, tutti offline. Tocca una parola e vedi il significato in italiano. Con lettura ad alta voce, livelli.",
+  "page_title": "Lettura estensiva in inglese con storie facili | Story Leaf",
+  "meta_description": "La lettura estensiva in inglese con 842 albi illustrati facili. Leggi offline, ascolta la narrazione e crea ogni giorno un’abitudine di input comprensibile.",
   "about_body": "Story Leaf ti aiuta a prendere confidenza con l'inglese leggendo tanti albi illustrati facili.",
   "features": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "title": "Lettura ad alta voce naturale",
-      "body": "I libri vengono letti con una pronuncia naturale ."
+      "body": "I libri vengono letti con una pronuncia naturale."
     },
     {
       "title": "L'app cresce con te",
@@ -72,5 +72,9 @@
       "title": "Fatta per non farti mollare",
       "body": "Uno Story Tree che cresce a ogni libro finito, più titoli per libri letti, parole lette, giorni consecutivi e generi completati."
     }
-  ]
+  ],
+  "q4": "Cosa sono lettura estensiva e Comprehensible Input?",
+  "a4": "La lettura estensiva consiste nel leggere tanti testi facili e piacevoli, concentrandosi sul significato. Il Comprehensible Input è il concetto più ampio di lingua comprensibile attraverso lettura, ascolto e altre esperienze. Storie semplici e narrazione permettono di praticarlo.",
+  "q5": "Come iniziare con la lettura estensiva?",
+  "a5": "Scegli libri che riesci a seguire senza cercare ogni parola. Goditi la storia, supera i punti difficili e cambia libro se è troppo impegnativo o poco interessante. Ascolta quando serve e aumenta la quantità al tuo ritmo."
 }

@@ -1,8 +1,8 @@
 {
   "language_name": "Deutsch",
-  "eyebrow": "Jeden Tag ein bisschen Englisch.",
-  "hero_title": "Kleine Geschichten.\nEine größere Welt.",
-  "hero_body": "Ein kleines Lachen. Ein Gefühl, das bleibt. Entdecke die Freude am Englischen, ein Bilderbuch nach dem anderen.",
+  "eyebrow": "Extensives Lesen",
+  "hero_title": "Extensives Lesen.\nEnglisch mit Geschichten.",
+  "hero_body": "842 leichte englische Bilderbücher für deine tägliche Lese- und Hörroutine. Entdecke extensives Lesen mit Geschichten, die du verstehen und genießen kannst.",
   "browse": "Geschichten entdecken",
   "download": "Im App Store laden",
   "free_note": "Gratis · In-App-Käufe",
@@ -52,8 +52,8 @@
     "Ein Brötchen, zwei Freunde und ein wenig Freundlichkeit.",
     "Wo findet Mugi einen Platz, der zu ihm passt?"
   ],
-  "page_title": "Story Leaf — Kleine Geschichten. Eine größere Welt.",
-  "meta_description": "Ein kleines Lachen. Ein Gefühl, das bleibt. Entdecke die Freude am Englischen, ein Bilderbuch nach dem anderen. 842 englische Bilderbücher, komplett offline. Tippe ein Wort an und sieh die Bedeutung auf Deutsch. Mit Vorlesefunktion, Levelsystem.",
+  "page_title": "Extensives Lesen auf Englisch mit leichten Büchern | Story Leaf",
+  "meta_description": "Extensives Lesen auf Englisch: 842 leichte Bilderbücher offline lesen, die Erzählung anhören und mit verständlichem Input eine tägliche Leseroutine aufbauen.",
   "about_body": "Mit Story Leaf wirst du im Englischen sicher, indem du viele leichte Bilderbücher liest.",
   "features": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "title": "Natürlich klingendes Vorlesen",
-      "body": "Die Bücher werden mit natürlicher Aussprache vorgelesen ."
+      "body": "Die Bücher werden mit natürlicher Aussprache vorgelesen."
     },
     {
       "title": "Die App wächst mit dir",
@@ -72,5 +72,9 @@
       "title": "Damit du dranbleibst",
       "body": "Ein Story Tree, der mit jedem gelesenen Buch wächst, dazu Titel für gelesene Bücher, gelesene Wörter, Lesetage in Folge und vollständig gelesene Genres."
     }
-  ]
+  ],
+  "q4": "Was sind extensives Lesen und Comprehensible Input?",
+  "a4": "Extensives Lesen bedeutet, viele leichte, interessante Texte zu lesen und den Inhalt zu genießen. Comprehensible Input bezeichnet allgemeiner verständliche Sprache beim Lesen, Hören und darüber hinaus. Einfache Geschichten mit Erzählstimme bieten dafür einen Einstieg.",
+  "q5": "Wie beginne ich mit extensivem Lesen?",
+  "a5": "Wähle Bücher, die du ohne ständiges Nachschlagen verstehst. Lies über schwierige Stellen hinweg und wechsle das Buch, wenn es zu schwer oder langweilig ist. Nutze die Erzählstimme nach Bedarf und steigere die Lese- und Hörmenge in deinem Tempo."
 }

@@ -1,8 +1,8 @@
 {
   "language_name": "Nederlands",
-  "eyebrow": "Elke dag een beetje Engels.",
-  "hero_title": "Kleine verhalen.\nEen groeiende wereld.",
-  "hero_body": "Een glimlach. Een gevoel dat blijft. Ontdek het plezier van Engels, één prentenboek tegelijk.",
+  "eyebrow": "Extensief lezen",
+  "hero_title": "Extensief lezen.\nEngels in verhalen.",
+  "hero_body": "842 makkelijke prentenboeken voor je dagelijkse Engelse lees- en luistermoment. Ontdek extensief lezen in je eigen tempo, met verhalen die je begrijpt en leuk vindt.",
   "browse": "Ontdek de verhalen",
   "download": "Download in de App Store",
   "free_note": "Gratis · In-app aankopen",
@@ -52,8 +52,8 @@
     "Eén broodje, twee vrienden en een beetje vriendelijkheid.",
     "Waar vindt Mugi een fijne plek om te zitten?"
   ],
-  "page_title": "Story Leaf — Kleine verhalen. Een groeiende wereld.",
-  "meta_description": "Een glimlach. Een gevoel dat blijft. Ontdek het plezier van Engels, één prentenboek tegelijk. 842 Engelse prentenboeken, helemaal offline. Tik op een woord en zie de betekenis in het Nederlands. Met voorlezen, niveaus.",
+  "page_title": "Extensief lezen in het Engels met makkelijke boeken | Story Leaf",
+  "meta_description": "Extensief lezen in het Engels met 842 makkelijke prentenboeken. Lees offline, luister naar de vertelling en bouw een dagelijkse routine met begrijpelijke input.",
   "about_body": "Met Story Leaf raak je vertrouwd met Engels door veel makkelijke prentenboeken te lezen.",
   "features": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "title": "Natuurlijk klinkend voorlezen",
-      "body": "De boeken worden voorgelezen met natuurlijke uitspraak ."
+      "body": "De boeken worden voorgelezen met natuurlijke uitspraak."
     },
     {
       "title": "De app groeit met je mee",
@@ -72,5 +72,9 @@
       "title": "Gemaakt om vol te houden",
       "body": "Een Story Tree die groeit bij elk uitgelezen boek, plus titels voor gelezen boeken, gelezen woorden, dagen op rij en voltooide genres."
     }
-  ]
+  ],
+  "q4": "Wat zijn extensief lezen en Comprehensible Input?",
+  "a4": "Extensief lezen betekent veel makkelijke, leuke teksten lezen voor de inhoud. Comprehensible Input is het bredere idee van taal die je begrijpt via lezen, luisteren en andere ervaringen. Eenvoudige verhalen en vertellingen helpen je dit in de praktijk te brengen.",
+  "q5": "Hoe begin ik met extensief lezen?",
+  "a5": "Kies boeken die je kunt volgen zonder telkens woorden op te zoeken. Geniet van het verhaal, sla moeilijke stukken over en wissel als een boek te lastig of saai is. Luister wanneer dat helpt en lees meer in je eigen tempo."
 }

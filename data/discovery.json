@@ -1,0 +1,159 @@
+{
+  "checked_on": "2026-10-18",
+  "locales": {
+    "ja": {
+      "term": "英語多読・多聴",
+      "app_locale": "ja",
+      "name": "Story Leaf: 英語多読・多聴",
+      "subtitle": "やさしい英語絵本842冊でインプット習慣",
+      "source": "https://www.seg.co.jp/sss/learning/"
+    },
+    "en": {
+      "term": "Extensive Reading",
+      "app_locale": "en-US",
+      "name": "Story Leaf: Extensive Reading",
+      "subtitle": "Comprehensible input & stories",
+      "source": "https://erfoundation.org/wordpress/what_is/"
+    },
+    "de": {
+      "term": "Extensives Lesen",
+      "app_locale": "de-DE",
+      "name": "Story Leaf: Extensives Lesen",
+      "subtitle": "Englisch lesen & hören",
+      "source": "https://ucrisportal.univie.ac.at/de/publications/extensives-lesen-im-daf-unterricht-der-sekundarstufe-eine-interve/"
+    },
+    "fr": {
+      "term": "Lecture extensive",
+      "app_locale": "fr-FR",
+      "name": "Story Leaf: Lecture extensive",
+      "subtitle": "Lire et écouter en anglais",
+      "source": "https://formations.univ-poitiers.fr/plugins/odf-web/odf/_content/course-renforcement-d-anglais-cmi-s2-fr-fr-fr-fr-fr-fr/Renforcement%20en%20anglais%20CMI-1%20%28S2%29.pdf"
+    },
+    "es": {
+      "term": "Lectura extensiva",
+      "app_locale": "es-ES",
+      "name": "Story Leaf: Lectura extensiva",
+      "subtitle": "Inglés con input comprensible",
+      "source": "https://erfoundation.org/guide/ERF_Guide-Sp.pdf"
+    },
+    "it": {
+      "term": "Lettura estensiva",
+      "app_locale": "it",
+      "name": "Story Leaf: Lettura estensiva",
+      "subtitle": "Leggi e ascolta in inglese",
+      "source": "https://ricerca.unistrapg.it/handle/20.500.12071/31646"
+    },
+    "nl": {
+      "term": "Extensief lezen",
+      "app_locale": "nl-NL",
+      "name": "Story Leaf: Extensief lezen",
+      "subtitle": "Engels lezen en luisteren",
+      "source": "https://www.slo.nl/thema/meer/tule/engels/kerndoel-13/?mode=toelichting-en-verantwoording"
+    },
+    "pt-BR": {
+      "term": "Leitura extensiva",
+      "app_locale": "pt-BR",
+      "name": "Story Leaf: Leitura extensiva",
+      "subtitle": "Inglês com input compreensível",
+      "source": "https://erfoundation.org/guide/ERF_Guide_Portuguese.pdf"
+    },
+    "pt-PT": {
+      "term": "Leitura extensiva",
+      "app_locale": "pt-PT",
+      "name": "Story Leaf: Leitura extensiva",
+      "subtitle": "Inglês com input compreensível",
+      "source": "https://erfoundation.org/guide/ERF_Guide_Portuguese.pdf"
+    },
+    "ru": {
+      "term": "Экстенсивное чтение",
+      "app_locale": "ru",
+      "name": "Story Leaf: Английский",
+      "subtitle": "Экстенсивное чтение",
+      "source": "https://www.gramota.net/article/ped20250157/fulltext"
+    },
+    "uk": {
+      "term": "Екстенсивне читання",
+      "app_locale": "uk",
+      "name": "Story Leaf: Англійська",
+      "subtitle": "Екстенсивне читання",
+      "source": "https://znp.udpu.edu.ua/article/view/134426"
+    },
+    "pl": {
+      "term": "Czytanie ekstensywne",
+      "app_locale": "pl",
+      "name": "Story Leaf: Angielski",
+      "subtitle": "Czytanie ekstensywne",
+      "source": "https://jows.pl/artykuly/jak-tworczo-wykorzystac-czytanie"
+    },
+    "tr": {
+      "term": "Kapsamlı okuma",
+      "app_locale": "tr",
+      "name": "Story Leaf: Kapsamlı okuma",
+      "subtitle": "İngilizce oku ve dinle",
+      "source": "https://erfoundation.org/guide/ERF_Guide_Turkish.pdf"
+    },
+    "ar": {
+      "term": "القراءة الموسعة",
+      "app_locale": "ar-SA",
+      "name": "Story Leaf: القراءة الموسعة",
+      "subtitle": "اقرأ واستمع بالإنجليزية",
+      "source": "https://erfoundation.org/guide/Arabic_guide.pdf"
+    },
+    "hi": {
+      "term": "विस्तृत पठन",
+      "app_locale": "hi",
+      "name": "Story Leaf: विस्तृत पठन",
+      "subtitle": "अंग्रेज़ी पढ़ें और सुनें",
+      "source": "https://egyankosh.ac.in/bitstream/123456789/7681/1/Unit-2.pdf"
+    },
+    "ko": {
+      "term": "영어 다독",
+      "app_locale": "ko",
+      "name": "Story Leaf: 영어 다독",
+      "subtitle": "쉬운 영어 그림책으로 다독·다청",
+      "source": "https://language.sunmoon.ac.kr/language/cm/cntnts/cntntsView.do?cntntsId=239348&mi=41128"
+    },
+    "zh-Hans": {
+      "term": "英语泛读",
+      "app_locale": "zh-Hans",
+      "name": "Story Leaf: 英语泛读",
+      "subtitle": "分级英语绘本，听读大量可理解输入",
+      "source": "https://dletc.jiangnan.edu.cn/syjx/kcdg/yyfd.htm"
+    },
+    "zh-Hant": {
+      "term": "英文廣讀",
+      "app_locale": "zh-Hant",
+      "name": "Story Leaf: 英文廣讀",
+      "subtitle": "分級英語繪本，聽讀大量可理解輸入",
+      "source": "https://ceag.tyc.edu.tw/act-3-info.aspx?d=74C53D32F8EF7558"
+    },
+    "th": {
+      "term": "การอ่านแบบกว้างขวาง",
+      "app_locale": "th",
+      "name": "Story Leaf: อ่านอังกฤษ",
+      "subtitle": "การอ่านแบบกว้างขวาง",
+      "source": "https://digital.car.chula.ac.th/chulaetd/4920/"
+    },
+    "vi": {
+      "term": "Đọc mở rộng",
+      "app_locale": "vi",
+      "name": "Story Leaf: Đọc mở rộng",
+      "subtitle": "Đọc và nghe tiếng Anh mỗi ngày",
+      "source": "https://journal.hcmue.edu.vn/index.php/hcmuejos/article/view/5826"
+    },
+    "id": {
+      "term": "Membaca ekstensif",
+      "app_locale": "id",
+      "name": "Story Leaf: Membaca ekstensif",
+      "subtitle": "Baca dan dengar bahasa Inggris",
+      "source": "https://erfoundation.org/guide/ERF_Guide_Indonesian.pdf"
+    },
+    "ms": {
+      "term": "Bacaan ekstensif",
+      "app_locale": "ms",
+      "name": "Story Leaf: Bacaan ekstensif",
+      "subtitle": "Baca & dengar bahasa Inggeris",
+      "source": "https://ipkent.edu.my/document/pskent/pskent18/modul/bmm/BMM3043.pdf"
+    }
+  }
+}

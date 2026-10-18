@@ -1,8 +1,8 @@
 {
   "language_name": "Bahasa Indonesia",
-  "eyebrow": "Sedikit bahasa Inggris, setiap hari.",
-  "hero_title": "Cerita kecil.\nDunia yang makin luas.",
-  "hero_body": "Senyum kecil. Perasaan yang menetap. Temukan serunya bahasa Inggris, satu buku bergambar setiap kali.",
+  "eyebrow": "Membaca ekstensif",
+  "hero_title": "Membaca ekstensif.\nBahasa Inggris lewat cerita.",
+  "hero_body": "842 buku mudah untuk membaca dan mendengarkan bahasa Inggris setiap hari. Coba membaca ekstensif sesuai ritmemu, lewat cerita yang kamu pahami dan nikmati.",
   "browse": "Jelajahi cerita",
   "download": "Unduh di App Store",
   "free_note": "Gratis · Pembelian dalam app",
@@ -52,8 +52,8 @@
     "Satu roti, dua sahabat, dan sedikit kebaikan.",
     "Di mana Mugi akan menemukan tempat duduk yang pas?"
   ],
-  "page_title": "Story Leaf — Cerita kecil. Dunia yang makin luas.",
-  "meta_description": "Senyum kecil. Perasaan yang menetap. Temukan serunya bahasa Inggris, satu buku bergambar setiap kali. 842 buku cerita bergambar berbahasa Inggris, semuanya offline. Ketuk sebuah kata, artinya muncul dalam bahasa Indonesia. Ada narasi, level otomatis.",
+  "page_title": "Membaca ekstensif bahasa Inggris dengan cerita mudah | Story Leaf",
+  "meta_description": "Mulai membaca ekstensif dalam bahasa Inggris dengan 842 buku bergambar mudah. Baca offline, dengarkan narasi, dan bangun kebiasaan input yang dapat dipahami.",
   "about_body": "Story Leaf membuat Anda terbiasa dengan bahasa Inggris lewat membaca banyak buku bergambar yang mudah.",
   "features": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "title": "Narasi yang terdengar alami",
-      "body": "Aplikasi membacakan buku dengan pelafalan yang alami ."
+      "body": "Aplikasi membacakan buku dengan pelafalan yang alami."
     },
     {
       "title": "Aplikasi yang tumbuh bersama Anda",
@@ -72,5 +72,9 @@
       "title": "Supaya tidak berhenti di tengah jalan",
       "body": "Story Tree yang tumbuh setiap kali Anda menamatkan satu buku, plus gelar untuk jumlah buku yang dibaca, jumlah kata yang dibaca, hari membaca berturut-turut, dan genre yang ditamatkan."
     }
-  ]
+  ],
+  "q4": "Apa itu membaca ekstensif dan Comprehensible Input?",
+  "a4": "Membaca ekstensif berarti membaca banyak teks mudah dan menarik untuk memahami maknanya. Comprehensible Input adalah gagasan lebih luas tentang bahasa yang dipahami melalui membaca, mendengarkan, dan cara lain. Cerita sederhana dengan narasi dapat menjadi sarana latihan.",
+  "q5": "Bagaimana memulai membaca ekstensif?",
+  "a5": "Pilih buku yang bisa kamu ikuti tanpa terus-menerus membuka kamus. Nikmati cerita, lewati bagian sulit, dan ganti buku jika terlalu susah atau membosankan. Dengarkan jika membantu dan tambah jumlah bacaan sesuai ritmemu."
 }

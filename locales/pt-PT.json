@@ -1,8 +1,8 @@
 {
   "language_name": "Português (Portugal)",
-  "eyebrow": "Um pouco de inglês, todos os dias.",
-  "hero_title": "Pequenas histórias.\nUm mundo por descobrir.",
-  "hero_body": "Um sorriso. Uma emoção que fica. Descubra o prazer do inglês, um livro ilustrado de cada vez.",
+  "eyebrow": "Leitura extensiva",
+  "hero_title": "Leitura extensiva.\nInglês em histórias.",
+  "hero_body": "842 livros fáceis para ler e ouvir inglês todos os dias. Descubra a leitura extensiva ao seu ritmo, com histórias que consegue compreender e apreciar.",
   "browse": "Explorar as histórias",
   "download": "Descarregar na App Store",
   "free_note": "Grátis · Compras integradas",
@@ -52,8 +52,8 @@
     "Um pão, dois amigos e um pouco de ternura.",
     "Onde encontrará o Mugi um lugar à sua medida?"
   ],
-  "page_title": "Story Leaf — Pequenas histórias. Um mundo por descobrir.",
-  "meta_description": "Um sorriso. Uma emoção que fica. Descubra o prazer do inglês, um livro ilustrado de cada vez. 842 livros ilustrados em inglês, tudo offline. Toque numa palavra e veja o significado em português. Com narração, nível automático.",
+  "page_title": "Leitura extensiva em inglês e input compreensível | Story Leaf",
+  "meta_description": "Pratique leitura extensiva em inglês com 842 livros ilustrados fáceis. Leia offline, ouça a narração e crie um hábito diário de input compreensível.",
   "about_body": "O Story Leaf ajuda você a ficar à vontade com o inglês lendo muitos livros ilustrados fáceis.",
   "features": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "title": "Narração com pronúncia natural",
-      "body": "Os livros são lidos em voz alta com pronúncia natural ."
+      "body": "Os livros são lidos em voz alta com pronúncia natural."
     },
     {
       "title": "A app cresce com você",
@@ -72,5 +72,9 @@
       "title": "Feito para você continuar",
       "body": "Uma Story Tree que cresce a cada livro terminado, além de títulos por livros lidos, palavras lidas, dias seguidos e gêneros completos."
     }
-  ]
+  ],
+  "q4": "O que são leitura extensiva e input compreensível?",
+  "a4": "Leitura extensiva é ler muitos textos fáceis e interessantes, com atenção ao significado. Input compreensível é uma ideia mais ampla: linguagem que se compreende ao ler, ouvir e noutras situações. Histórias simples e narração oferecem formas de praticar.",
+  "q5": "Como começar a leitura extensiva?",
+  "a5": "Escolha livros que consiga seguir sem consultar cada palavra. Aprecie a história, passe as partes difíceis e mude de livro se for demasiado difícil ou pouco interessante. Ouça quando ajudar e aumente a quantidade ao seu ritmo."
 }

@@ -1,8 +1,8 @@
 {
   "language_name": "Türkçe",
-  "eyebrow": "Her gün biraz İngilizce.",
-  "hero_title": "Küçük hikâyeler.\nBüyüyen bir dünya.",
-  "hero_body": "Küçük bir gülümseme. İçinde kalan bir duygu. Her resimli kitapta İngilizcenin keyfini yeniden keşfet.",
+  "eyebrow": "Kapsamlı okuma",
+  "hero_title": "Kapsamlı okuma.\nHikâyelerle İngilizce.",
+  "hero_body": "Her gün İngilizce okumak ve dinlemek için 842 kolay resimli kitap. Anlayabildiğin ve keyif aldığın hikâyelerle kendi hızında kapsamlı okumaya başla.",
   "browse": "Hikâyeleri keşfet",
   "download": "App Store’dan indir",
   "free_note": "Ücretsiz · Uygulama içi satın alma",
@@ -52,8 +52,8 @@
     "Bir ekmek, iki arkadaş ve biraz iyilik.",
     "Mugi kendine tam uyan bir yeri nerede bulacak?"
   ],
-  "page_title": "Story Leaf — Küçük hikâyeler. Büyüyen bir dünya.",
-  "meta_description": "Küçük bir gülümseme. İçinde kalan bir duygu. Her resimli kitapta İngilizcenin keyfini yeniden keşfet. 842 İngilizce resimli kitap, tamamen çevrimdışı. Bir kelimeye dokun, anlamını Türkçe gör. Sesli okuma, seviye takibi.",
+  "page_title": "İngilizce kapsamlı okuma ve kolay hikâyeler | Story Leaf",
+  "meta_description": "İngilizce kapsamlı okuma için 842 kolay resimli kitap. Çevrimdışı oku, seslendirmeyi dinle ve her gün anlaşılır dil girdisiyle bir okuma alışkanlığı kur.",
   "about_body": "Story Leaf, bol bol kolay resimli kitap okuyarak İngilizceye alışmanı sağlar.",
   "features": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "title": "Doğal seslendirme",
-      "body": "Kitaplar doğal bir telaffuzla sesli okunur ."
+      "body": "Kitaplar doğal bir telaffuzla sesli okunur."
     },
     {
       "title": "Uygulama seninle büyür",
@@ -72,5 +72,9 @@
       "title": "Bırakmaman için",
       "body": "Bitirdiğin her kitapla büyüyen bir Story Tree, ayrıca okunan kitap, okunan kelime, üst üste okuma günleri ve tamamlanan türler için unvanlar."
     }
-  ]
+  ],
+  "q4": "Kapsamlı okuma ve Comprehensible Input nedir?",
+  "a4": "Kapsamlı okuma, anlamını ve hikâyesini takip ederek çok sayıda kolay, ilginç metin okumaktır. Comprehensible Input, okuma, dinleme ve başka yollarla anlayabildiğin dili kapsayan daha geniş bir fikirdir. Kolay hikâyeler ve seslendirme bunu uygulama yollarıdır.",
+  "q5": "Kapsamlı okumaya nasıl başlayabilirim?",
+  "a5": "Sürekli sözlüğe bakmadan takip edebileceğin kitapları seç. Hikâyenin keyfini çıkar, zor yerleri geç ve kitap zor ya da sıkıcıysa başka bir kitaba geç. Yardımcı olduğunda seslendirmeyi kullan ve kendi hızında daha çok oku."
 }

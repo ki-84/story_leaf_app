@@ -61,6 +61,8 @@ def main():
     assert PUBLIC.is_dir(), "Run build.py first"
     books = json.loads((ROOT / "data/books.json").read_text())
     manifest = json.loads((ROOT / "data/audio-manifest.json").read_text())
+    discovery = json.loads((ROOT / "data/discovery.json").read_text())['locales']
+    assert set(discovery) == set(LOCALE_ORDER)
     assert tuple(book['id'] for book in books) == PUBLIC_BOOK_IDS
     assert all(book['license'] == 'All Rights Reserved' for book in books)
     assert sum(len(book['pages']) for book in books) == len(manifest) == 12
@@ -84,6 +86,9 @@ def main():
         assert 'href="../style.css"' not in content, 'Styles must have versioned filenames to avoid stale layouts'
         assert 'class="book-grid collection-grid"' in content
         assert content.count('class="book-card"') == len(PUBLIC_BOOK_IDS)
+        locale_copy = json.loads((ROOT / 'locales' / f'{locale}.json').read_text())
+        assert discovery[locale]['term'].casefold() in locale_copy['page_title'].casefold()
+        assert locale_copy['q4'] in content and locale_copy['q5'] in content
         page = Page()
         page.feed(content)
         assert page.lang == locale

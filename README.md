@@ -2,6 +2,9 @@
 
 GitHub Pages: **https://ki-84.github.io/story_leaf_app/**
 
+HPと次回以降のApp Store掲載文は、[多読向け検索・掲載方針](DISCOVERABILITY.md) と
+[22ロケールの確認済み用語](data/discovery.json) に沿って更新します。
+
 Story Leaf の宣伝サイト。サポートサイトは既存の
 https://ki-84.github.io/story_leaf_support/en/ を維持します。
 

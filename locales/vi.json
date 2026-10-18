@@ -1,8 +1,8 @@
 {
   "language_name": "Tiếng Việt",
-  "eyebrow": "Mỗi ngày một chút tiếng Anh.",
-  "hero_title": "Chuyện nhỏ.\nThế giới rộng mở.",
-  "hero_body": "Một nụ cười. Một cảm xúc đọng lại. Khám phá niềm vui học tiếng Anh qua từng cuốn truyện tranh.",
+  "eyebrow": "Đọc mở rộng",
+  "hero_title": "Đọc mở rộng.\nTiếng Anh qua từng câu chuyện.",
+  "hero_body": "842 truyện dễ đọc để đọc và nghe tiếng Anh mỗi ngày. Khám phá đọc mở rộng theo nhịp riêng, với những câu chuyện bạn hiểu và yêu thích.",
   "browse": "Khám phá truyện",
   "download": "Tải trên App Store",
   "free_note": "Miễn phí · Mua trong ứng dụng",
@@ -52,8 +52,8 @@
     "Một ổ bánh, hai người bạn và một chút dịu dàng.",
     "Mugi sẽ tìm được chỗ ngồi vừa ý ở đâu?"
   ],
-  "page_title": "Story Leaf — Chuyện nhỏ. Thế giới rộng mở.",
-  "meta_description": "Một nụ cười. Một cảm xúc đọng lại. Khám phá niềm vui học tiếng Anh qua từng cuốn truyện tranh. 842 cuốn sách tranh tiếng Anh, tất cả đều ngoại tuyến. Chạm vào một từ để thấy nghĩa tiếng Việt. Có giọng đọc, tự chỉnh cấp độ.",
+  "page_title": "Đọc mở rộng tiếng Anh với truyện dễ đọc | Story Leaf",
+  "meta_description": "Luyện đọc mở rộng bằng tiếng Anh với 842 truyện tranh dễ đọc. Đọc ngoại tuyến, nghe lời kể và tạo thói quen tiếp xúc với ngôn ngữ dễ hiểu mỗi ngày.",
   "about_body": "Story Leaf giúp bạn quen dần với tiếng Anh bằng cách đọc thật nhiều sách tranh dễ.",
   "features": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "title": "Giọng đọc tự nhiên",
-      "body": "Ứng dụng đọc sách thành tiếng với phát âm tự nhiên ."
+      "body": "Ứng dụng đọc sách thành tiếng với phát âm tự nhiên."
     },
     {
       "title": "Ứng dụng lớn lên cùng bạn",
@@ -72,5 +72,9 @@
       "title": "Để bạn không bỏ dở",
       "body": "Story Tree lớn thêm sau mỗi cuốn bạn đọc xong, cùng các danh hiệu theo số sách đã đọc, số từ đã đọc, số ngày đọc liên tiếp và số thể loại đã đọc trọn."
     }
-  ]
+  ],
+  "q4": "Đọc mở rộng và Comprehensible Input là gì?",
+  "a4": "Đọc mở rộng là đọc nhiều nội dung dễ và thú vị để hiểu ý nghĩa. Comprehensible Input là khái niệm rộng hơn về ngôn ngữ có thể hiểu được qua đọc, nghe và những cách khác. Truyện đơn giản cùng lời kể là một cách thực hành.",
+  "q5": "Bắt đầu đọc mở rộng như thế nào?",
+  "a5": "Chọn sách bạn hiểu mà không phải tra từng từ. Thưởng thức câu chuyện, bỏ qua đoạn khó và đổi sách nếu quá khó hoặc không thú vị. Nghe khi hữu ích và dần đọc, nghe nhiều hơn theo nhịp riêng."
 }

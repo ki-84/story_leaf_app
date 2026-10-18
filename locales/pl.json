@@ -1,8 +1,8 @@
 {
   "language_name": "Polski",
-  "eyebrow": "Odrobina angielskiego każdego dnia.",
-  "hero_title": "Małe historie.\nCoraz większy świat.",
-  "hero_body": "Uśmiech. Uczucie, które zostaje. Odkryj radość angielskiego, jedna książka obrazkowa po drugiej.",
+  "eyebrow": "Czytanie ekstensywne",
+  "hero_title": "Czytanie po angielsku.\nMałe historie, wielki świat.",
+  "hero_body": "842 proste książki do codziennego czytania i słuchania po angielsku. Odkryj czytanie ekstensywne we własnym tempie, z historiami, które rozumiesz i lubisz.",
   "browse": "Odkryj opowieści",
   "download": "Pobierz w App Store",
   "free_note": "Bezpłatnie · Zakupy w aplikacji",
@@ -52,8 +52,8 @@
     "Jedna bułka, dwoje przyjaciół i odrobina życzliwości.",
     "Gdzie Mugi znajdzie miejsce w sam raz dla siebie?"
   ],
-  "page_title": "Story Leaf — Małe historie. Coraz większy świat.",
-  "meta_description": "Uśmiech. Uczucie, które zostaje. Odkryj radość angielskiego, jedna książka obrazkowa po drugiej. 842 angielskich książeczek obrazkowych, w całości offline. Dotknij słowa i zobacz znaczenie po polsku. Z czytaniem na głos, poziomami.",
+  "page_title": "Czytanie ekstensywne po angielsku z prostymi książkami | Story Leaf",
+  "meta_description": "Czytanie ekstensywne po angielsku: 842 proste książki obrazkowe. Czytaj offline, słuchaj narracji i buduj codzienny kontakt ze zrozumiałym językiem.",
   "about_body": "Story Leaf pomaga oswoić się z angielskim przez czytanie wielu łatwych książeczek obrazkowych.",
   "features": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "title": "Naturalne czytanie na głos",
-      "body": "Książki są czytane z naturalną wymową ."
+      "body": "Książki są czytane z naturalną wymową."
     },
     {
       "title": "Aplikacja rośnie razem z tobą",
@@ -72,5 +72,9 @@
       "title": "Żeby nie odpuścić",
       "body": "Story Tree, które rośnie z każdą przeczytaną książką, oraz tytuły za przeczytane książki, przeczytane słowa, dni pod rząd i ukończone gatunki."
     }
-  ]
+  ],
+  "q4": "Czym są czytanie ekstensywne i Comprehensible Input?",
+  "a4": "Czytanie ekstensywne to czytanie wielu łatwych i ciekawych tekstów z uwagą na ich znaczenie. Comprehensible Input oznacza szerzej zrozumiały język w czytaniu, słuchaniu i innych sytuacjach. Proste historie z narracją pozwalają stosować te idee w praktyce.",
+  "q5": "Jak zacząć czytanie ekstensywne?",
+  "a5": "Wybieraj książki, które rozumiesz bez ciągłego sięgania po słownik. Ciesz się historią, pomijaj trudne fragmenty i zmień książkę, jeśli jest zbyt trudna lub nudna. Korzystaj z narracji, gdy pomaga, i stopniowo czytaj więcej we własnym tempie."
 }

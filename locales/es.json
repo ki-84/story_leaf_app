@@ -1,8 +1,8 @@
 {
   "language_name": "Español",
-  "eyebrow": "Un poquito de inglés, cada día.",
-  "hero_title": "Pequeñas historias.\nUn mundo por descubrir.",
-  "hero_body": "Una sonrisa. Una emoción que se queda. Descubre el placer del inglés, un cuento ilustrado a la vez.",
+  "eyebrow": "Lectura extensiva",
+  "hero_title": "Lectura extensiva.\nInglés con historias.",
+  "hero_body": "842 cuentos fáciles para leer y escuchar inglés cada día. Disfruta de la lectura extensiva a tu ritmo y añade input comprensible a tu rutina.",
   "browse": "Explorar los cuentos",
   "download": "Descargar en el App Store",
   "free_note": "Gratis · Compras en la app",
@@ -52,8 +52,8 @@
     "Un panecillo, dos amigos y un poco de cariño.",
     "¿Dónde encontrará Mugi un asiento a su medida?"
   ],
-  "page_title": "Story Leaf — Pequeñas historias. Un mundo por descubrir.",
-  "meta_description": "Una sonrisa. Una emoción que se queda. Descubre el placer del inglés, un cuento ilustrado a la vez. 842 cuentos en inglés, todos sin conexión. Toca una palabra y verás su significado en español. Con narración, nivel automático.",
+  "page_title": "Lectura extensiva en inglés e input comprensible | Story Leaf",
+  "meta_description": "Practica la lectura extensiva en inglés con 842 cuentos ilustrados. Lee sin conexión, escucha la narración y crea un hábito diario de input comprensible.",
   "about_body": "Story Leaf te ayuda a soltarte en inglés leyendo muchos cuentos ilustrados fáciles.",
   "features": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "title": "Narración con pronunciación natural",
-      "body": "Los libros se leen en voz alta con pronunciación natural ."
+      "body": "Los libros se leen en voz alta con pronunciación natural."
     },
     {
       "title": "La app crece contigo",
@@ -72,5 +72,9 @@
       "title": "Pensada para que no lo dejes",
       "body": "Un Story Tree que crece con cada libro terminado, y títulos por libros leídos, palabras leídas, días seguidos y géneros completados."
     }
-  ]
+  ],
+  "q4": "¿Qué son la lectura extensiva y el input comprensible?",
+  "a4": "La lectura extensiva consiste en leer muchos textos fáciles e interesantes para disfrutar de su significado. El input comprensible es una idea más amplia: lenguaje que entiendes al leer, escuchar y en otras situaciones. Los cuentos con narración son una forma de practicar.",
+  "q5": "¿Cómo empiezo con la lectura extensiva?",
+  "a5": "Elige libros que puedas seguir sin consultar cada palabra. Disfruta del cuento, salta lo que no entiendas y cambia de libro si resulta difícil o aburrido. Escucha cuando te ayude y aumenta la cantidad a tu ritmo."
 }

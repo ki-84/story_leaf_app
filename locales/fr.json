@@ -1,8 +1,8 @@
 {
   "language_name": "Français",
-  "eyebrow": "Un peu d’anglais, un peu chaque jour.",
-  "hero_title": "Petites histoires.\nGrandes découvertes.",
-  "hero_body": "Un sourire. Une émotion qui reste. Retrouvez le plaisir de l’anglais, un album illustré à la fois.",
+  "eyebrow": "Lecture extensive",
+  "hero_title": "Lecture extensive.\nL’anglais en histoires.",
+  "hero_body": "842 albums faciles pour lire et écouter de l’anglais au quotidien. Découvrez la lecture extensive à votre rythme, avec des histoires que vous pouvez comprendre et apprécier.",
   "browse": "Découvrir les histoires",
   "download": "Télécharger sur l’App Store",
   "free_note": "Gratuit · Achats intégrés",
@@ -52,8 +52,8 @@
     "Un petit pain, deux amis et un geste de tendresse.",
     "Où Mugi trouvera-t-il une place à sa mesure ?"
   ],
-  "page_title": "Story Leaf — Petites histoires. Grandes découvertes.",
-  "meta_description": "Un sourire. Une émotion qui reste. Retrouvez le plaisir de l’anglais, un album illustré à la fois. 842 albums en anglais, entièrement hors connexion. Touchez un mot pour voir son sens en français. Lecture à voix haute, suivi de niveau.",
+  "page_title": "Lecture extensive en anglais et histoires faciles | Story Leaf",
+  "meta_description": "La lecture extensive en anglais avec 842 albums faciles à lire hors ligne. Écoutez la narration et créez une habitude d’anglais compréhensible, chaque jour.",
   "about_body": "Story Leaf vous aide à vous sentir à l'aise en anglais en lisant beaucoup d'albums faciles.",
   "features": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "title": "Une lecture à voix haute naturelle",
-      "body": "Les livres sont lus avec une prononciation naturelle ."
+      "body": "Les livres sont lus avec une prononciation naturelle."
     },
     {
       "title": "L'application grandit avec vous",
@@ -72,5 +72,9 @@
       "title": "Pour tenir sur la durée",
       "body": "Un Story Tree qui pousse à chaque livre terminé, et des titres pour les livres lus, les mots lus, les jours consécutifs et les genres terminés."
     }
-  ]
+  ],
+  "q4": "Que sont la lecture extensive et le Comprehensible Input ?",
+  "a4": "La lecture extensive consiste à lire beaucoup de textes faciles et plaisants, pour leur sens. Le Comprehensible Input désigne plus largement la langue que l’on comprend en lisant, en écoutant et autrement. Les histoires simples et leur narration permettent de pratiquer.",
+  "q5": "Comment commencer la lecture extensive ?",
+  "a5": "Choisissez des livres que vous comprenez sans chercher chaque mot. Suivez l’histoire, passez les difficultés et changez de livre s’il est trop difficile ou peu intéressant. Écoutez au besoin et augmentez la quantité à votre rythme."
 }

@@ -1,0 +1,81 @@
+{
+  "language_name": "English",
+  "eyebrow": "A little English. A little every day.",
+  "hero_title": "Small stories.\nA growing world.",
+  "hero_body": "A little laughter. A feeling that stays. Discover the joy of English, one picture book at a time.",
+  "browse": "Explore the stories",
+  "download": "Get it on the App Store",
+  "free_note": "Free · In-app purchases",
+  "nav_books": "The stories",
+  "nav_about": "The app",
+  "nav_faq": "FAQ",
+  "stat_books": "English picture books",
+  "stat_levels": "reading levels",
+  "stat_dict": "dictionary languages",
+  "sample_title": "Your next chapter starts here.",
+  "sample_body": "Step into our original stories. Read the opening pages and listen to the English narration.",
+  "popo_title": "Popo, Mumu & a little Nemu.",
+  "popo_body": "A shared bread roll. An unexpected visitor. A rainy-day dance. Three small friends, a world of little moments.",
+  "mallow_title": "Meet Mugi.\nWelcome to Mallow Town.",
+  "mallow_body": "A gentle capybara, a small town, and the everyday things that matter. Warm, sometimes bittersweet stories about finding your place.",
+  "read_sample": "Read & listen",
+  "sample_note": "Preview the first 4 pages of each book. Stories and narration are in English.",
+  "about_title": "A little reading.\nA little more confidence.",
+  "faq_title": "A few little answers.",
+  "q1": "Is the app free?",
+  "a1": "Yes. All books are free to read. The app has small banner ads, which any supporter purchase removes. No account is required.",
+  "q2": "Can I read offline?",
+  "a2": "Books and dictionaries are included in the app and work offline. The high-quality voice needs a one-time download. Website previews and audio need an internet connection.",
+  "q3": "What language are the books in?",
+  "a3": "The books and narration are in English. The app interface supports 22 locales, with word meanings available in 20 languages.",
+  "closing_title": "A few pages today.\nA new world tomorrow.",
+  "closing_body": "Start with a story. A few quiet minutes, at your own pace, are all you need.",
+  "support": "Support",
+  "privacy": "Privacy",
+  "credits": "Stories & credits",
+  "choose_language": "Choose your language",
+  "close": "Close",
+  "previous": "Previous page",
+  "next": "Next page",
+  "listen": "Listen to the story",
+  "pause": "Pause",
+  "audio_notice": "English narration uses the same AI-generated voice as the app.",
+  "sample_end": "That's the end of this preview. Discover the rest in the app.",
+  "read_full": "Keep reading in the app",
+  "page": "Page",
+  "audio_error": "Audio could not play. Please try again.",
+  "skip": "Skip to content",
+  "real_screen": "Actual app screen: tap a word to see its meaning.",
+  "app_locale": "en-US",
+  "summaries": [
+    "A rainy day becomes a dance for three.",
+    "One bread roll. Two friends. A little kindness.",
+    "Good night. But where did that voice come from?",
+    "Two small eyes peek out from under a blanket.",
+    "A rainy day's work, and the hope of a warmer blanket.",
+    "Where will Mugi find a seat that feels just right?",
+    "The bread Mugi saved for costs a little more today.",
+    "What will Mugi find at the end of a very long queue?"
+  ],
+  "page_title": "Story Leaf — Small stories. A growing world.",
+  "meta_description": "A little laughter. A feeling that stays. Discover the joy of English, one picture book at a time. 842 English picture books, all offline. Tap any word for its meaning in your language — 20 languages built in. Narration, level tracking.",
+  "about_body": "Story Leaf helps you get comfortable with English by reading lots of easy picture books.",
+  "features": [
+    {
+      "title": "Tap a word, see it in your language",
+      "body": "Tap any English word in the text and its meaning appears in your own language."
+    },
+    {
+      "title": "Natural-sounding narration",
+      "body": "Books are read aloud with natural pronunciation ."
+    },
+    {
+      "title": "The app grows with you",
+      "body": "When you finish a book, just pick how hard and how fun it was."
+    },
+    {
+      "title": "Built to keep you going",
+      "body": "A Story Tree that grows with every book you finish, plus titles earned for books read, words read, daily streaks, and completing a genre."
+    }
+  ]
+}

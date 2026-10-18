@@ -1,0 +1,81 @@
+{
+  "language_name": "Polski",
+  "eyebrow": "Odrobina angielskiego każdego dnia.",
+  "hero_title": "Małe historie.\nCoraz większy świat.",
+  "hero_body": "Uśmiech. Uczucie, które zostaje. Odkryj radość angielskiego, jedna książka obrazkowa po drugiej.",
+  "browse": "Odkryj opowieści",
+  "download": "Pobierz w App Store",
+  "free_note": "Bezpłatnie · Zakupy w aplikacji",
+  "nav_books": "Opowieści",
+  "nav_about": "Aplikacja",
+  "nav_faq": "Pytania",
+  "stat_books": "książki po angielsku",
+  "stat_levels": "poziomy czytania",
+  "stat_dict": "języków słownika",
+  "sample_title": "Twój kolejny rozdział zaczyna się tutaj.",
+  "sample_body": "Poznaj nasze autorskie historie. Przeczytaj pierwsze strony i posłuchaj narracji po angielsku.",
+  "popo_title": "Popo, Mumu i mały Nemu.",
+  "popo_body": "Bułka na pół. Niespodziewany gość. Taniec w deszczowy dzień. Troje małych przyjaciół i ich codzienne chwile.",
+  "mallow_title": "Poznaj Mugi.\nWitaj w Mallow Town.",
+  "mallow_body": "Łagodna kapibara, małe miasteczko i zwykłe, ważne sprawy. Ciepłe, czasem słodko-gorzkie opowieści.",
+  "read_sample": "Czytaj i słuchaj",
+  "sample_note": "Poznaj pierwsze 4 strony każdej książki. Tekst i narracja są po angielsku.",
+  "about_title": "Trochę czytania.\nTrochę więcej pewności.",
+  "faq_title": "Kilka małych odpowiedzi.",
+  "q1": "Czy aplikacja jest bezpłatna?",
+  "a1": "Tak. Wszystkie książki można czytać bezpłatnie. Aplikacja wyświetla małe banery reklamowe. Dowolny zakup wspierający usuwa reklamy. Konto nie jest potrzebne.",
+  "q2": "Czy mogę czytać offline?",
+  "a2": "Książki i słowniki są w aplikacji i działają offline. Głos wysokiej jakości wymaga jednorazowego pobrania. Fragmenty i dźwięk na stronie wymagają internetu.",
+  "q3": "W jakim języku są książki?",
+  "a3": "Książki i narracja są po angielsku. Interfejs obsługuje 22 warianty językowe, a znaczenia słów są dostępne w 20 językach, w tym po polsku.",
+  "closing_title": "Kilka stron dzisiaj.\nNowy świat jutro.",
+  "closing_body": "Zacznij od historii. Wystarczy kilka spokojnych minut we własnym tempie.",
+  "support": "Pomoc",
+  "privacy": "Prywatność",
+  "credits": "Historie i autorzy",
+  "choose_language": "Wybierz język",
+  "close": "Zamknij",
+  "previous": "Poprzednia strona",
+  "next": "Następna strona",
+  "listen": "Posłuchaj historii",
+  "pause": "Pauza",
+  "audio_notice": "Angielska narracja korzysta z tego samego głosu AI co aplikacja.",
+  "sample_end": "To koniec fragmentu. Dalszy ciąg znajdziesz w aplikacji.",
+  "read_full": "Czytaj dalej w aplikacji",
+  "page": "Strona",
+  "audio_error": "Nie udało się odtworzyć dźwięku. Spróbuj ponownie.",
+  "skip": "Przejdź do treści",
+  "real_screen": "Prawdziwy ekran aplikacji: dotknij słowa, aby zobaczyć znaczenie.",
+  "app_locale": "pl",
+  "summaries": [
+    "Deszczowy dzień zamienia się w taniec dla trojga.",
+    "Jedna bułka, dwoje przyjaciół i odrobina życzliwości.",
+    "Dobranoc. Ale skąd dobiegł ten głos?",
+    "Spod koca wyglądają dwoje małych oczu.",
+    "Praca w deszczu i marzenie o ciepłym kocu.",
+    "Gdzie Mugi znajdzie miejsce w sam raz dla siebie?",
+    "Chleb, na który Mugi oszczędzał, dziś kosztuje więcej.",
+    "Co Mugi znajdzie na końcu długiej kolejki?"
+  ],
+  "page_title": "Story Leaf — Małe historie. Coraz większy świat.",
+  "meta_description": "Uśmiech. Uczucie, które zostaje. Odkryj radość angielskiego, jedna książka obrazkowa po drugiej. 842 angielskich książeczek obrazkowych, w całości offline. Dotknij słowa i zobacz znaczenie po polsku. Z czytaniem na głos, poziomami.",
+  "about_body": "Story Leaf pomaga oswoić się z angielskim przez czytanie wielu łatwych książeczek obrazkowych.",
+  "features": [
+    {
+      "title": "Dotknij słowa – w twoim języku",
+      "body": "Dotknij angielskiego słowa w tekście, a znaczenie pojawi się w twoim języku."
+    },
+    {
+      "title": "Naturalne czytanie na głos",
+      "body": "Książki są czytane z naturalną wymową ."
+    },
+    {
+      "title": "Aplikacja rośnie razem z tobą",
+      "body": "Po skończonej książce wybierasz tylko, jak trudna i jak ciekawa była."
+    },
+    {
+      "title": "Żeby nie odpuścić",
+      "body": "Story Tree, które rośnie z każdą przeczytaną książką, oraz tytuły za przeczytane książki, przeczytane słowa, dni pod rząd i ukończone gatunki."
+    }
+  ]
+}

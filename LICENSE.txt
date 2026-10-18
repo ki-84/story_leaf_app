@@ -1,0 +1,16 @@
+Copyright 2026 Nobuaki Kuwabara. All rights reserved.
+
+The original picture-book text and illustrations shown on this website are
+published as previews for Story Leaf. Public availability is not a grant of
+permission to redistribute or adapt these works.
+
+Narration is AI-generated using Supertonic 3 (Supertone), voice F1.
+The model is not distributed as part of this website.
+https://huggingface.co/Supertone/supertonic-3
+
+The app screenshots contain an excerpt from "A very tall man":
+Written by Cornelius Gulere. Illustrated by Catherine Groenewald.
+Published by African Storybook (Saide). CC BY 4.0.
+https://www.africanstorybook.org/
+https://creativecommons.org/licenses/by/4.0/
+Text extracted and images resized for the app. Displayed in screenshots.

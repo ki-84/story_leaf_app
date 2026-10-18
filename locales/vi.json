@@ -1,0 +1,81 @@
+{
+  "language_name": "Tiếng Việt",
+  "eyebrow": "Mỗi ngày một chút tiếng Anh.",
+  "hero_title": "Chuyện nhỏ.\nThế giới rộng mở.",
+  "hero_body": "Một nụ cười. Một cảm xúc đọng lại. Khám phá niềm vui học tiếng Anh qua từng cuốn truyện tranh.",
+  "browse": "Khám phá truyện",
+  "download": "Tải trên App Store",
+  "free_note": "Miễn phí · Mua trong ứng dụng",
+  "nav_books": "Các câu chuyện",
+  "nav_about": "Về ứng dụng",
+  "nav_faq": "Câu hỏi",
+  "stat_books": "truyện tiếng Anh",
+  "stat_levels": "cấp độ đọc",
+  "stat_dict": "ngôn ngữ từ điển",
+  "sample_title": "Chương tiếp theo bắt đầu từ đây.",
+  "sample_body": "Bước vào những câu chuyện nguyên tác. Đọc các trang đầu và nghe lời kể bằng tiếng Anh.",
+  "popo_title": "Popo, Mumu và Nemu bé nhỏ.",
+  "popo_body": "Một ổ bánh chia đôi. Vị khách bất ngờ. Điệu nhảy ngày mưa. Ba người bạn nhỏ và những khoảnh khắc thường ngày.",
+  "mallow_title": "Làm quen với Mugi.\nChào mừng đến Mallow Town.",
+  "mallow_body": "Một chú capybara hiền lành, một thị trấn nhỏ và những điều giản dị đáng quý. Những câu chuyện ấm áp, đôi lúc ngọt ngào lẫn đắng cay.",
+  "read_sample": "Đọc và nghe",
+  "sample_note": "Đọc thử 4 trang đầu mỗi cuốn sách. Nội dung và lời kể bằng tiếng Anh.",
+  "about_title": "Đọc từng chút.\nTự tin hơn từng ngày.",
+  "faq_title": "Một vài câu trả lời nhỏ.",
+  "q1": "Ứng dụng có miễn phí không?",
+  "a1": "Có. Tất cả sách đều được đọc miễn phí. Ứng dụng có quảng cáo biểu ngữ nhỏ; mua bất kỳ gói ủng hộ nào sẽ tắt quảng cáo. Không cần tài khoản.",
+  "q2": "Có thể đọc khi không có mạng không?",
+  "a2": "Sách và từ điển được tích hợp, dùng được ngoại tuyến. Giọng đọc chất lượng cao chỉ cần tải một lần. Bản đọc thử và âm thanh trên website cần kết nối internet.",
+  "q3": "Sách dùng ngôn ngữ nào?",
+  "a3": "Nội dung và lời kể bằng tiếng Anh. Giao diện hỗ trợ 22 thiết lập ngôn ngữ, từ điển có nghĩa từ bằng 20 ngôn ngữ, gồm tiếng Việt.",
+  "closing_title": "Vài trang hôm nay.\nMột thế giới mới ngày mai.",
+  "closing_body": "Bắt đầu bằng một câu chuyện. Chỉ vài phút yên tĩnh, theo nhịp của riêng bạn.",
+  "support": "Hỗ trợ",
+  "privacy": "Quyền riêng tư",
+  "credits": "Tác phẩm và ghi công",
+  "choose_language": "Chọn ngôn ngữ",
+  "close": "Đóng",
+  "previous": "Trang trước",
+  "next": "Trang sau",
+  "listen": "Nghe câu chuyện",
+  "pause": "Tạm dừng",
+  "audio_notice": "Lời kể tiếng Anh dùng cùng giọng AI tổng hợp như trong ứng dụng.",
+  "sample_end": "Bản đọc thử kết thúc tại đây. Khám phá phần còn lại trong ứng dụng.",
+  "read_full": "Đọc tiếp trong ứng dụng",
+  "page": "Trang",
+  "audio_error": "Không phát được âm thanh. Vui lòng thử lại.",
+  "skip": "Chuyển đến nội dung",
+  "real_screen": "Màn hình ứng dụng thực tế: chạm vào từ để xem nghĩa.",
+  "app_locale": "vi",
+  "summaries": [
+    "Ngày mưa trở thành điệu nhảy của ba người bạn.",
+    "Một ổ bánh, hai người bạn và một chút dịu dàng.",
+    "Chúc ngủ ngon. Nhưng giọng nói ấy từ đâu đến?",
+    "Hai con mắt bé xíu nhìn lên từ dưới chăn.",
+    "Làm việc dưới mưa, mong có một chiếc chăn ấm hơn.",
+    "Mugi sẽ tìm được chỗ ngồi vừa ý ở đâu?",
+    "Ổ bánh Mugi dành dụm để mua hôm nay đắt hơn rồi.",
+    "Điều gì chờ Mugi ở cuối hàng người thật dài?"
+  ],
+  "page_title": "Story Leaf — Chuyện nhỏ. Thế giới rộng mở.",
+  "meta_description": "Một nụ cười. Một cảm xúc đọng lại. Khám phá niềm vui học tiếng Anh qua từng cuốn truyện tranh. 842 cuốn sách tranh tiếng Anh, tất cả đều ngoại tuyến. Chạm vào một từ để thấy nghĩa tiếng Việt. Có giọng đọc, tự chỉnh cấp độ.",
+  "about_body": "Story Leaf giúp bạn quen dần với tiếng Anh bằng cách đọc thật nhiều sách tranh dễ.",
+  "features": [
+    {
+      "title": "Chạm vào một từ, đọc bằng tiếng của bạn",
+      "body": "Chạm vào bất kỳ từ tiếng Anh nào trong bài, nghĩa sẽ hiện ra bằng ngôn ngữ của bạn."
+    },
+    {
+      "title": "Giọng đọc tự nhiên",
+      "body": "Ứng dụng đọc sách thành tiếng với phát âm tự nhiên ."
+    },
+    {
+      "title": "Ứng dụng lớn lên cùng bạn",
+      "body": "Đọc xong một cuốn, bạn chỉ cần chọn nó khó tới đâu và bạn thích tới đâu."
+    },
+    {
+      "title": "Để bạn không bỏ dở",
+      "body": "Story Tree lớn thêm sau mỗi cuốn bạn đọc xong, cùng các danh hiệu theo số sách đã đọc, số từ đã đọc, số ngày đọc liên tiếp và số thể loại đã đọc trọn."
+    }
+  ]
+}

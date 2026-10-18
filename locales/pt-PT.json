@@ -1,0 +1,81 @@
+{
+  "language_name": "Português (Portugal)",
+  "eyebrow": "Um pouco de inglês, todos os dias.",
+  "hero_title": "Pequenas histórias.\nUm mundo por descobrir.",
+  "hero_body": "Um sorriso. Uma emoção que fica. Descubra o prazer do inglês, um livro ilustrado de cada vez.",
+  "browse": "Explorar as histórias",
+  "download": "Descarregar na App Store",
+  "free_note": "Grátis · Compras integradas",
+  "nav_books": "As histórias",
+  "nav_about": "A aplicação",
+  "nav_faq": "Perguntas",
+  "stat_books": "livros em inglês",
+  "stat_levels": "níveis de leitura",
+  "stat_dict": "línguas do dicionário",
+  "sample_title": "O seu próximo capítulo começa aqui.",
+  "sample_body": "Entre nas nossas histórias originais. Leia as primeiras páginas e ouça a narração em inglês.",
+  "popo_title": "Popo, Mumu e o pequeno Nemu.",
+  "popo_body": "Um pão partilhado. Uma visita inesperada. Uma dança num dia de chuva. Três pequenos amigos e os seus momentos do dia a dia.",
+  "mallow_title": "Conheça o Mugi.\nBem-vindo a Mallow Town.",
+  "mallow_body": "Uma capivara tranquila, uma pequena vila e as coisas que importam. Histórias ternas, por vezes agridoces.",
+  "read_sample": "Ler e ouvir",
+  "sample_note": "Leia as primeiras 4 páginas de cada livro. Texto e narração em inglês.",
+  "about_title": "Um pouco de leitura.\nUm pouco mais de confiança.",
+  "faq_title": "Algumas pequenas respostas.",
+  "q1": "A aplicação é gratuita?",
+  "a1": "Sim. Todos os livros podem ser lidos gratuitamente. A aplicação apresenta pequenos anúncios, removidos com qualquer compra de apoio. Não é necessária conta.",
+  "q2": "Posso ler sem ligação à internet?",
+  "a2": "Os livros e dicionários estão incluídos e funcionam offline. A voz de alta qualidade requer um único descarregamento. As prévias e o áudio do site necessitam de internet.",
+  "q3": "Em que língua estão os livros?",
+  "a3": "Os livros e a narração são em inglês. A interface suporta 22 variantes linguísticas e o dicionário apresenta significados em 20 línguas.",
+  "closing_title": "Algumas páginas hoje.\nUm novo mundo amanhã.",
+  "closing_body": "Comece com uma história. Bastam alguns minutos de tranquilidade, ao seu ritmo.",
+  "support": "Apoio",
+  "privacy": "Privacidade",
+  "credits": "Histórias e créditos",
+  "choose_language": "Escolher língua",
+  "close": "Fechar",
+  "previous": "Página anterior",
+  "next": "Página seguinte",
+  "listen": "Ouvir a história",
+  "pause": "Pausa",
+  "audio_notice": "A narração em inglês utiliza a mesma voz gerada por IA da aplicação.",
+  "sample_end": "A prévia termina aqui. Descubra o resto na aplicação.",
+  "read_full": "Continuar a ler na aplicação",
+  "page": "Página",
+  "audio_error": "Não foi possível reproduzir o áudio. Tente novamente.",
+  "skip": "Saltar para o conteúdo",
+  "real_screen": "Ecrã real da aplicação: toque numa palavra para ver o significado.",
+  "app_locale": "pt-PT",
+  "summaries": [
+    "Um dia de chuva transforma-se numa dança a três.",
+    "Um pão, dois amigos e um pouco de ternura.",
+    "Boa noite. Mas de onde veio aquela voz?",
+    "Dois olhinhos espreitam por baixo de uma manta.",
+    "Trabalho à chuva e o sonho de uma manta quente.",
+    "Onde encontrará o Mugi um lugar à sua medida?",
+    "O pão para o qual o Mugi poupou custa mais hoje.",
+    "O que encontra o Mugi no fim de uma longa fila?"
+  ],
+  "page_title": "Story Leaf — Pequenas histórias. Um mundo por descobrir.",
+  "meta_description": "Um sorriso. Uma emoção que fica. Descubra o prazer do inglês, um livro ilustrado de cada vez. 842 livros ilustrados em inglês, tudo offline. Toque numa palavra e veja o significado em português. Com narração, nível automático.",
+  "about_body": "O Story Leaf ajuda você a ficar à vontade com o inglês lendo muitos livros ilustrados fáceis.",
+  "features": [
+    {
+      "title": "Toque numa palavra e leia no seu idioma",
+      "body": "Toque em qualquer palavra em inglês e o significado aparece no seu idioma."
+    },
+    {
+      "title": "Narração com pronúncia natural",
+      "body": "Os livros são lidos em voz alta com pronúncia natural ."
+    },
+    {
+      "title": "A app cresce com você",
+      "body": "Ao terminar um livro, basta escolher o quanto foi difícil e o quanto foi divertido."
+    },
+    {
+      "title": "Feito para você continuar",
+      "body": "Uma Story Tree que cresce a cada livro terminado, além de títulos por livros lidos, palavras lidas, dias seguidos e gêneros completos."
+    }
+  ]
+}

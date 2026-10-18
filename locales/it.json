@@ -1,0 +1,81 @@
+{
+  "language_name": "Italiano",
+  "eyebrow": "Un po’ d’inglese, ogni giorno.",
+  "hero_title": "Piccole storie.\nUn mondo che cresce.",
+  "hero_body": "Un sorriso. Un’emozione che resta. Scopri il piacere dell’inglese, un albo illustrato alla volta.",
+  "browse": "Scopri le storie",
+  "download": "Scarica su App Store",
+  "free_note": "Gratis · Acquisti in-app",
+  "nav_books": "Le storie",
+  "nav_about": "L’app",
+  "nav_faq": "Domande",
+  "stat_books": "albi in inglese",
+  "stat_levels": "livelli di lettura",
+  "stat_dict": "lingue del dizionario",
+  "sample_title": "Il tuo prossimo capitolo inizia qui.",
+  "sample_body": "Entra nelle nostre storie originali. Leggi le prime pagine e ascolta la narrazione in inglese.",
+  "popo_title": "Popo, Mumu e il piccolo Nemu.",
+  "popo_body": "Un panino condiviso. Un ospite inatteso. Un ballo in un giorno di pioggia. Tre piccoli amici e i loro momenti quotidiani.",
+  "mallow_title": "Ecco Mugi.\nBenvenuti a Mallow Town.",
+  "mallow_body": "Un capibara gentile, una piccola città e le cose che contano. Storie tenere, a volte dolceamare.",
+  "read_sample": "Leggi e ascolta",
+  "sample_note": "Prova le prime 4 pagine di ogni libro. Testo e narrazione in inglese.",
+  "about_title": "Un po’ di lettura.\nUn po’ più di fiducia.",
+  "faq_title": "Qualche piccola risposta.",
+  "q1": "L’app è gratuita?",
+  "a1": "Sì. Tutti i libri sono gratuiti. L’app mostra piccoli banner pubblicitari, rimossi con qualsiasi acquisto di sostegno. Non serve un account.",
+  "q2": "Posso leggere offline?",
+  "a2": "Libri e dizionari sono inclusi nell’app e funzionano offline. La voce di alta qualità richiede un solo download. Le anteprime e l’audio sul sito richiedono internet.",
+  "q3": "In che lingua sono i libri?",
+  "a3": "I libri e la narrazione sono in inglese. L’interfaccia supporta 22 varianti linguistiche e il dizionario offre significati in 20 lingue.",
+  "closing_title": "Qualche pagina oggi.\nUn nuovo mondo domani.",
+  "closing_body": "Inizia con una storia. Bastano pochi minuti di calma, al tuo ritmo.",
+  "support": "Assistenza",
+  "privacy": "Privacy",
+  "credits": "Storie e crediti",
+  "choose_language": "Scegli la lingua",
+  "close": "Chiudi",
+  "previous": "Pagina precedente",
+  "next": "Pagina successiva",
+  "listen": "Ascolta la storia",
+  "pause": "Pausa",
+  "audio_notice": "La narrazione inglese usa la stessa voce generata dall’IA dell’app.",
+  "sample_end": "L’anteprima finisce qui. Scopri il resto nell’app.",
+  "read_full": "Continua a leggere nell’app",
+  "page": "Pagina",
+  "audio_error": "Impossibile riprodurre l’audio. Riprova.",
+  "skip": "Vai al contenuto",
+  "real_screen": "Schermata reale dell’app: tocca una parola per vederne il significato.",
+  "app_locale": "it",
+  "summaries": [
+    "Un giorno di pioggia diventa un ballo per tre.",
+    "Un panino, due amici e un piccolo gesto gentile.",
+    "Buonanotte. Ma da dove veniva quella voce?",
+    "Due piccoli occhi spuntano da sotto una coperta.",
+    "Un lavoro sotto la pioggia, sognando una coperta calda.",
+    "Dove troverà Mugi il posto giusto per sedersi?",
+    "Il pane per cui Mugi ha risparmiato oggi costa di più.",
+    "Cosa troverà Mugi alla fine di una lunga coda?"
+  ],
+  "page_title": "Story Leaf — Piccole storie. Un mondo che cresce.",
+  "meta_description": "Un sorriso. Un’emozione che resta. Scopri il piacere dell’inglese, un albo illustrato alla volta. 842 albi illustrati in inglese, tutti offline. Tocca una parola e vedi il significato in italiano. Con lettura ad alta voce, livelli.",
+  "about_body": "Story Leaf ti aiuta a prendere confidenza con l'inglese leggendo tanti albi illustrati facili.",
+  "features": [
+    {
+      "title": "Tocca una parola e leggila nella tua lingua",
+      "body": "Tocca una parola inglese nel testo e il significato compare nella tua lingua."
+    },
+    {
+      "title": "Lettura ad alta voce naturale",
+      "body": "I libri vengono letti con una pronuncia naturale ."
+    },
+    {
+      "title": "L'app cresce con te",
+      "body": "Alla fine di un libro scegli solo quanto era difficile e quanto ti è piaciuto."
+    },
+    {
+      "title": "Fatta per non farti mollare",
+      "body": "Uno Story Tree che cresce a ogni libro finito, più titoli per libri letti, parole lette, giorni consecutivi e generi completati."
+    }
+  ]
+}

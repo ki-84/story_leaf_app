@@ -1,0 +1,81 @@
+{
+  "language_name": "Türkçe",
+  "eyebrow": "Her gün biraz İngilizce.",
+  "hero_title": "Küçük hikâyeler.\nBüyüyen bir dünya.",
+  "hero_body": "Küçük bir gülümseme. İçinde kalan bir duygu. Her resimli kitapta İngilizcenin keyfini yeniden keşfet.",
+  "browse": "Hikâyeleri keşfet",
+  "download": "App Store’dan indir",
+  "free_note": "Ücretsiz · Uygulama içi satın alma",
+  "nav_books": "Hikâyeler",
+  "nav_about": "Uygulama",
+  "nav_faq": "Sorular",
+  "stat_books": "İngilizce resimli kitap",
+  "stat_levels": "okuma seviyesi",
+  "stat_dict": "sözlük dili",
+  "sample_title": "Sıradaki bölümün burada başlıyor.",
+  "sample_body": "Özgün hikâyelerimize adım at. İlk sayfaları oku, İngilizce seslendirmeyi dinle.",
+  "popo_title": "Popo, Mumu ve küçük Nemu.",
+  "popo_body": "Paylaşılan bir ekmek. Beklenmedik bir misafir. Yağmurlu bir günün dansı. Üç küçük arkadaşın günlük anları.",
+  "mallow_title": "Mugi ile tanış.\nMallow Town’a hoş geldin.",
+  "mallow_body": "Sakin bir kapibara, küçük bir kasaba ve hayattaki önemli küçük şeyler. Sıcacık, bazen buruk hikâyeler.",
+  "read_sample": "Oku ve dinle",
+  "sample_note": "Her kitabın ilk 4 sayfasına göz at. Metin ve seslendirme İngilizcedir.",
+  "about_title": "Biraz okuma.\nBiraz daha özgüven.",
+  "faq_title": "Birkaç küçük cevap.",
+  "q1": "Uygulama ücretsiz mi?",
+  "a1": "Evet. Tüm kitaplar ücretsiz okunabilir. Uygulamada küçük reklam bantları vardır. Herhangi bir destekçi satın alımı reklamları kaldırır. Hesap gerekmez.",
+  "q2": "Çevrimdışı okuyabilir miyim?",
+  "a2": "Kitaplar ve sözlükler uygulamaya dahildir ve çevrimdışı çalışır. Yüksek kaliteli ses bir kez indirilir. Sitedeki önizlemeler ve ses için internet gerekir.",
+  "q3": "Kitaplar hangi dilde?",
+  "a3": "Kitaplar ve seslendirme İngilizcedir. Arayüz 22 yerel ayarı, sözlük ise Türkçe dahil 20 dilde kelime anlamlarını destekler.",
+  "closing_title": "Bugün birkaç sayfa.\nYarın yeni bir dünya.",
+  "closing_body": "Bir hikâyeyle başla. Kendi hızında, birkaç sakin dakika yeter.",
+  "support": "Destek",
+  "privacy": "Gizlilik",
+  "credits": "Eserler ve katkıda bulunanlar",
+  "choose_language": "Dil seç",
+  "close": "Kapat",
+  "previous": "Önceki sayfa",
+  "next": "Sonraki sayfa",
+  "listen": "Hikâyeyi dinle",
+  "pause": "Duraklat",
+  "audio_notice": "İngilizce seslendirmede uygulamadakiyle aynı yapay zekâ sesi kullanılır.",
+  "sample_end": "Önizleme burada bitiyor. Hikâyenin devamını uygulamada keşfet.",
+  "read_full": "Uygulamada okumaya devam et",
+  "page": "Sayfa",
+  "audio_error": "Ses oynatılamadı. Lütfen yeniden dene.",
+  "skip": "İçeriğe geç",
+  "real_screen": "Gerçek uygulama ekranı: anlamını görmek için kelimeye dokun.",
+  "app_locale": "tr",
+  "summaries": [
+    "Yağmurlu bir gün, üç arkadaşın dansına dönüşür.",
+    "Bir ekmek, iki arkadaş ve biraz iyilik.",
+    "İyi geceler. Ama bu ses nereden geldi?",
+    "Battaniyenin altından iki küçük göz bakıyor.",
+    "Yağmurda çalışmak ve daha sıcak bir battaniye hayali.",
+    "Mugi kendine tam uyan bir yeri nerede bulacak?",
+    "Mugi’nin para biriktirdiği ekmek bugün daha pahalı.",
+    "Uzun kuyruğun sonunda Mugi’yi ne bekliyor?"
+  ],
+  "page_title": "Story Leaf — Küçük hikâyeler. Büyüyen bir dünya.",
+  "meta_description": "Küçük bir gülümseme. İçinde kalan bir duygu. Her resimli kitapta İngilizcenin keyfini yeniden keşfet. 842 İngilizce resimli kitap, tamamen çevrimdışı. Bir kelimeye dokun, anlamını Türkçe gör. Sesli okuma, seviye takibi.",
+  "about_body": "Story Leaf, bol bol kolay resimli kitap okuyarak İngilizceye alışmanı sağlar.",
+  "features": [
+    {
+      "title": "Bir kelimeye dokun, kendi dilinde oku",
+      "body": "Metindeki herhangi bir İngilizce kelimeye dokun, anlamı kendi dilinde çıksın."
+    },
+    {
+      "title": "Doğal seslendirme",
+      "body": "Kitaplar doğal bir telaffuzla sesli okunur ."
+    },
+    {
+      "title": "Uygulama seninle büyür",
+      "body": "Bir kitabı bitirince sadece ne kadar zor ve ne kadar keyifli olduğunu seç."
+    },
+    {
+      "title": "Bırakmaman için",
+      "body": "Bitirdiğin her kitapla büyüyen bir Story Tree, ayrıca okunan kitap, okunan kelime, üst üste okuma günleri ve tamamlanan türler için unvanlar."
+    }
+  ]
+}

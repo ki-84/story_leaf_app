@@ -1,0 +1,81 @@
+{
+  "language_name": "Bahasa Melayu",
+  "eyebrow": "Sedikit bahasa Inggeris, setiap hari.",
+  "hero_title": "Cerita kecil.\nDunia yang semakin luas.",
+  "hero_body": "Senyuman kecil. Perasaan yang kekal. Temui keseronokan bahasa Inggeris, satu buku bergambar pada satu masa.",
+  "browse": "Terokai cerita",
+  "download": "Muat turun di App Store",
+  "free_note": "Percuma · Pembelian dalam app",
+  "nav_books": "Cerita kami",
+  "nav_about": "Tentang app",
+  "nav_faq": "Soalan",
+  "stat_books": "buku bahasa Inggeris",
+  "stat_levels": "tahap bacaan",
+  "stat_dict": "bahasa kamus",
+  "sample_title": "Bab seterusnya bermula di sini.",
+  "sample_body": "Masuki cerita asli kami. Baca halaman awal sambil mendengar narasi bahasa Inggeris.",
+  "popo_title": "Popo, Mumu dan Nemu kecil.",
+  "popo_body": "Roti yang dikongsi. Tetamu tak diduga. Tarian pada hari hujan. Tiga sahabat kecil dan detik harian mereka.",
+  "mallow_title": "Kenali Mugi.\nSelamat datang ke Mallow Town.",
+  "mallow_body": "Kapibara yang tenang, pekan kecil dan perkara sederhana yang bermakna. Cerita mesra yang kadangkala manis bercampur pahit.",
+  "read_sample": "Baca dan dengar",
+  "sample_note": "Cuba 4 halaman pertama setiap buku. Teks dan narasi dalam bahasa Inggeris.",
+  "about_title": "Sedikit membaca.\nSedikit lagi keyakinan.",
+  "faq_title": "Beberapa jawapan ringkas.",
+  "q1": "Adakah app ini percuma?",
+  "a1": "Ya. Semua buku boleh dibaca secara percuma. App memaparkan iklan sepanduk kecil; sebarang pembelian sokongan membuang iklan. Akaun tidak diperlukan.",
+  "q2": "Boleh membaca tanpa internet?",
+  "a2": "Buku dan kamus tersedia dalam app dan berfungsi di luar talian. Suara berkualiti tinggi hanya perlu dimuat turun sekali. Pratonton dan audio laman web memerlukan internet.",
+  "q3": "Buku dalam bahasa apa?",
+  "a3": "Teks dan narasi dalam bahasa Inggeris. Antara muka menyokong 22 tetapan setempat, manakala makna perkataan tersedia dalam 20 bahasa, termasuk bahasa Melayu.",
+  "closing_title": "Beberapa halaman hari ini.\nDunia baharu esok hari.",
+  "closing_body": "Mulakan dengan sebuah cerita. Beberapa minit tenang, mengikut rentak anda sendiri, sudah memadai.",
+  "support": "Sokongan",
+  "privacy": "Privasi",
+  "credits": "Karya dan kredit",
+  "choose_language": "Pilih bahasa",
+  "close": "Tutup",
+  "previous": "Halaman sebelumnya",
+  "next": "Halaman seterusnya",
+  "listen": "Dengar cerita",
+  "pause": "Jeda",
+  "audio_notice": "Narasi bahasa Inggeris menggunakan suara sintetik AI yang sama seperti dalam app.",
+  "sample_end": "Pratonton berakhir di sini. Terokai sambungannya dalam app.",
+  "read_full": "Teruskan membaca dalam app",
+  "page": "Halaman",
+  "audio_error": "Audio tidak dapat dimainkan. Sila cuba lagi.",
+  "skip": "Langkau ke kandungan",
+  "real_screen": "Paparan sebenar app: ketik perkataan untuk melihat maknanya.",
+  "app_locale": "ms",
+  "summaries": [
+    "Hari hujan bertukar menjadi tarian bertiga.",
+    "Sebuku roti, dua sahabat dan sedikit kebaikan.",
+    "Selamat malam. Tetapi dari mana datangnya suara itu?",
+    "Dua mata kecil mengintai dari bawah selimut.",
+    "Bekerja dalam hujan demi selimut yang lebih hangat.",
+    "Di manakah Mugi akan menemui tempat duduk yang sesuai?",
+    "Roti yang Mugi kumpulkan wang untuk beli lebih mahal hari ini.",
+    "Apa yang Mugi temui di hujung barisan yang panjang?"
+  ],
+  "page_title": "Story Leaf — Cerita kecil. Dunia yang semakin luas.",
+  "meta_description": "Senyuman kecil. Perasaan yang kekal. Temui keseronokan bahasa Inggeris, satu buku bergambar pada satu masa. 842 buku cerita bergambar Inggeris, semuanya luar talian. Ketik satu perkataan, maknanya keluar dalam bahasa Melayu. Ada bacaan suara, aras automatik.",
+  "about_body": "Story Leaf membantu anda membiasakan diri dengan bahasa Inggeris dengan membaca banyak buku bergambar yang mudah.",
+  "features": [
+    {
+      "title": "Ketik satu perkataan, baca dalam bahasa anda",
+      "body": "Ketik mana-mana perkataan Inggeris dalam teks, maknanya akan keluar dalam bahasa anda."
+    },
+    {
+      "title": "Bacaan suara yang bersahaja",
+      "body": "Aplikasi membacakan buku dengan sebutan yang bersahaja ."
+    },
+    {
+      "title": "Aplikasi yang membesar bersama anda",
+      "body": "Selepas habis membaca, anda cuma perlu pilih betapa sukarnya dan betapa seronoknya buku itu."
+    },
+    {
+      "title": "Supaya anda tidak berhenti",
+      "body": "Story Tree yang membesar setiap kali anda menghabiskan sebuah buku, serta gelaran mengikut jumlah buku dibaca, jumlah perkataan dibaca, hari membaca berturut-turut dan genre yang dihabiskan."
+    }
+  ]
+}

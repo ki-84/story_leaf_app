@@ -1,0 +1,81 @@
+{
+  "language_name": "Bahasa Indonesia",
+  "eyebrow": "Sedikit bahasa Inggris, setiap hari.",
+  "hero_title": "Cerita kecil.\nDunia yang makin luas.",
+  "hero_body": "Senyum kecil. Perasaan yang menetap. Temukan serunya bahasa Inggris, satu buku bergambar setiap kali.",
+  "browse": "Jelajahi cerita",
+  "download": "Unduh di App Store",
+  "free_note": "Gratis · Pembelian dalam app",
+  "nav_books": "Cerita kami",
+  "nav_about": "Tentang app",
+  "nav_faq": "Pertanyaan",
+  "stat_books": "buku berbahasa Inggris",
+  "stat_levels": "tingkat membaca",
+  "stat_dict": "bahasa kamus",
+  "sample_title": "Bab berikutnya dimulai di sini.",
+  "sample_body": "Masuki cerita orisinal kami. Baca halaman awal dan dengarkan narasi bahasa Inggris.",
+  "popo_title": "Popo, Mumu, dan Nemu kecil.",
+  "popo_body": "Roti yang dibagi. Tamu tak terduga. Tarian di hari hujan. Tiga sahabat kecil dan momen keseharian mereka.",
+  "mallow_title": "Kenalan dengan Mugi.\nSelamat datang di Mallow Town.",
+  "mallow_body": "Kapibara yang lembut, kota kecil, dan hal-hal sederhana yang berarti. Cerita hangat yang kadang terasa manis sekaligus getir.",
+  "read_sample": "Baca dan dengarkan",
+  "sample_note": "Coba 4 halaman pertama setiap buku. Teks dan narasi dalam bahasa Inggris.",
+  "about_title": "Sedikit membaca.\nMakin percaya diri.",
+  "faq_title": "Beberapa jawaban kecil.",
+  "q1": "Apakah app ini gratis?",
+  "a1": "Ya. Semua buku bisa dibaca gratis. App menampilkan iklan banner kecil; pembelian dukungan apa pun menghapus iklan. Tidak perlu akun.",
+  "q2": "Bisa membaca tanpa internet?",
+  "a2": "Buku dan kamus sudah ada di dalam app dan dapat digunakan offline. Suara berkualitas tinggi cukup diunduh sekali. Pratinjau dan audio situs memerlukan internet.",
+  "q3": "Buku-bukunya dalam bahasa apa?",
+  "a3": "Teks dan narasi dalam bahasa Inggris. Antarmuka mendukung 22 lokal, dan arti kata tersedia dalam 20 bahasa, termasuk bahasa Indonesia.",
+  "closing_title": "Beberapa halaman hari ini.\nDunia baru esok hari.",
+  "closing_body": "Mulai dengan sebuah cerita. Cukup beberapa menit tenang, sesuai ritmemu sendiri.",
+  "support": "Bantuan",
+  "privacy": "Privasi",
+  "credits": "Karya dan kredit",
+  "choose_language": "Pilih bahasa",
+  "close": "Tutup",
+  "previous": "Halaman sebelumnya",
+  "next": "Halaman berikutnya",
+  "listen": "Dengarkan cerita",
+  "pause": "Jeda",
+  "audio_notice": "Narasi bahasa Inggris memakai suara sintetis AI yang sama dengan app.",
+  "sample_end": "Pratinjau berakhir di sini. Temukan kelanjutannya di app.",
+  "read_full": "Lanjut membaca di app",
+  "page": "Halaman",
+  "audio_error": "Audio tidak dapat diputar. Silakan coba lagi.",
+  "skip": "Langsung ke konten",
+  "real_screen": "Tampilan app sebenarnya: ketuk kata untuk melihat artinya.",
+  "app_locale": "id",
+  "summaries": [
+    "Hari hujan berubah menjadi tarian bertiga.",
+    "Satu roti, dua sahabat, dan sedikit kebaikan.",
+    "Selamat malam. Tapi dari mana suara itu datang?",
+    "Dua mata kecil mengintip dari bawah selimut.",
+    "Bekerja di tengah hujan, berharap mendapat selimut hangat.",
+    "Di mana Mugi akan menemukan tempat duduk yang pas?",
+    "Roti yang Mugi tabung untuk dibeli kini lebih mahal.",
+    "Apa yang Mugi temukan di ujung antrean panjang?"
+  ],
+  "page_title": "Story Leaf — Cerita kecil. Dunia yang makin luas.",
+  "meta_description": "Senyum kecil. Perasaan yang menetap. Temukan serunya bahasa Inggris, satu buku bergambar setiap kali. 842 buku cerita bergambar berbahasa Inggris, semuanya offline. Ketuk sebuah kata, artinya muncul dalam bahasa Indonesia. Ada narasi, level otomatis.",
+  "about_body": "Story Leaf membuat Anda terbiasa dengan bahasa Inggris lewat membaca banyak buku bergambar yang mudah.",
+  "features": [
+    {
+      "title": "Ketuk sebuah kata, baca dalam bahasa Anda",
+      "body": "Ketuk kata bahasa Inggris mana pun di dalam teks, artinya akan muncul dalam bahasa Anda."
+    },
+    {
+      "title": "Narasi yang terdengar alami",
+      "body": "Aplikasi membacakan buku dengan pelafalan yang alami ."
+    },
+    {
+      "title": "Aplikasi yang tumbuh bersama Anda",
+      "body": "Setelah selesai membaca, Anda cukup memilih seberapa sulit dan seberapa menyenangkan bukunya."
+    },
+    {
+      "title": "Supaya tidak berhenti di tengah jalan",
+      "body": "Story Tree yang tumbuh setiap kali Anda menamatkan satu buku, plus gelar untuk jumlah buku yang dibaca, jumlah kata yang dibaca, hari membaca berturut-turut, dan genre yang ditamatkan."
+    }
+  ]
+}

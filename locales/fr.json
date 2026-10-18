@@ -1,0 +1,81 @@
+{
+  "language_name": "Français",
+  "eyebrow": "Un peu d’anglais, un peu chaque jour.",
+  "hero_title": "Petites histoires.\nGrandes découvertes.",
+  "hero_body": "Un sourire. Une émotion qui reste. Retrouvez le plaisir de l’anglais, un album illustré à la fois.",
+  "browse": "Découvrir les histoires",
+  "download": "Télécharger sur l’App Store",
+  "free_note": "Gratuit · Achats intégrés",
+  "nav_books": "Les histoires",
+  "nav_about": "L’application",
+  "nav_faq": "Questions",
+  "stat_books": "albums en anglais",
+  "stat_levels": "niveaux de lecture",
+  "stat_dict": "langues du dictionnaire",
+  "sample_title": "Votre prochain chapitre commence ici.",
+  "sample_body": "Entrez dans nos histoires originales. Lisez les premières pages en écoutant la narration en anglais.",
+  "popo_title": "Popo, Mumu et le petit Nemu.",
+  "popo_body": "Un petit pain partagé. Une visite inattendue. Une danse sous la pluie. Trois amis et leurs petits moments du quotidien.",
+  "mallow_title": "Voici Mugi.\nBienvenue à Mallow Town.",
+  "mallow_body": "Un capybara tout doux, une petite ville et les choses qui comptent. Des histoires tendres, parfois douces-amères.",
+  "read_sample": "Lire et écouter",
+  "sample_note": "Découvrez les 4 premières pages de chaque livre. Texte et narration en anglais.",
+  "about_title": "Un peu de lecture.\nUn peu plus de confiance.",
+  "faq_title": "Quelques petites réponses.",
+  "q1": "L’application est-elle gratuite ?",
+  "a1": "Oui. Tous les livres sont accessibles gratuitement. De petites bannières publicitaires sont affichées ; tout achat de soutien les supprime. Aucun compte nécessaire.",
+  "q2": "Peut-on lire sans connexion ?",
+  "a2": "Les livres et dictionnaires sont inclus et fonctionnent hors ligne. La voix de haute qualité se télécharge une seule fois. Les extraits et sons du site nécessitent une connexion.",
+  "q3": "Dans quelle langue sont les livres ?",
+  "a3": "Les livres et la narration sont en anglais. L’interface propose 22 variantes linguistiques et le dictionnaire donne le sens des mots en 20 langues.",
+  "closing_title": "Quelques pages aujourd’hui.\nUn nouveau monde demain.",
+  "closing_body": "Commencez par une histoire. Quelques minutes de calme, à votre rythme, suffisent.",
+  "support": "Assistance",
+  "privacy": "Confidentialité",
+  "credits": "Histoires et crédits",
+  "choose_language": "Choisir la langue",
+  "close": "Fermer",
+  "previous": "Page précédente",
+  "next": "Page suivante",
+  "listen": "Écouter l’histoire",
+  "pause": "Pause",
+  "audio_notice": "La narration anglaise utilise la même voix générée par IA que l’application.",
+  "sample_end": "Cet extrait s’arrête ici. Retrouvez la suite dans l’application.",
+  "read_full": "Continuer dans l’application",
+  "page": "Page",
+  "audio_error": "Impossible de lire le son. Veuillez réessayer.",
+  "skip": "Aller au contenu",
+  "real_screen": "Écran réel de l’application : touchez un mot pour voir son sens.",
+  "app_locale": "fr-FR",
+  "summaries": [
+    "Un jour de pluie devient une danse à trois.",
+    "Un petit pain, deux amis et un geste de tendresse.",
+    "Bonne nuit. Mais d’où venait cette voix ?",
+    "Deux petits yeux apparaissent sous une couverture.",
+    "Travailler sous la pluie, en rêvant d’une couverture chaude.",
+    "Où Mugi trouvera-t-il une place à sa mesure ?",
+    "Le pain pour lequel Mugi a économisé coûte plus cher aujourd’hui.",
+    "Que trouvera Mugi au bout de cette longue file ?"
+  ],
+  "page_title": "Story Leaf — Petites histoires. Grandes découvertes.",
+  "meta_description": "Un sourire. Une émotion qui reste. Retrouvez le plaisir de l’anglais, un album illustré à la fois. 842 albums en anglais, entièrement hors connexion. Touchez un mot pour voir son sens en français. Lecture à voix haute, suivi de niveau.",
+  "about_body": "Story Leaf vous aide à vous sentir à l'aise en anglais en lisant beaucoup d'albums faciles.",
+  "features": [
+    {
+      "title": "Touchez un mot, lisez-le dans votre langue",
+      "body": "Touchez un mot anglais dans le texte : son sens apparaît dans votre langue."
+    },
+    {
+      "title": "Une lecture à voix haute naturelle",
+      "body": "Les livres sont lus avec une prononciation naturelle ."
+    },
+    {
+      "title": "L'application grandit avec vous",
+      "body": "À la fin d'un livre, indiquez simplement s'il était difficile et s'il vous a plu."
+    },
+    {
+      "title": "Pour tenir sur la durée",
+      "body": "Un Story Tree qui pousse à chaque livre terminé, et des titres pour les livres lus, les mots lus, les jours consécutifs et les genres terminés."
+    }
+  ]
+}

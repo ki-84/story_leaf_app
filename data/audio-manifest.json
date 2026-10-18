@@ -1,0 +1,322 @@
+{
+  "assets/audio/pb-en-0732/01.mp3": {
+    "input_sha256": "3ed7b181676deb4d41c99aeb728f07bbdc209dadba8f6ce1c43f4263e343f0dd",
+    "duration": 5.385,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "It was a rainy day.\nPopo, Mumu, and Nemu stayed in their little room.",
+    "sha256": "31c8770f5f81e300ad02e34997a11d944a49acc9c24898b151d556887bf1b0a4"
+  },
+  "assets/audio/pb-en-0732/02.mp3": {
+    "input_sha256": "87b2327087ba6d08401a449d257526bbc1b17dbf9f0ce0686062b683116a2aff",
+    "duration": 5.0,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Rain tapped on the window.\nPopo's two fluffy feelers moved with the sound.",
+    "sha256": "c70affa43b9302ad97a3a350b2685d3a42984ae4ec9ab88280626e47b808a522"
+  },
+  "assets/audio/pb-en-0732/03.mp3": {
+    "input_sha256": "c38228a0e54a54705774323e4ce7ff3f0d3c7a3627732ac2a927f46ebe775070",
+    "duration": 5.503,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Mumu saw them and smiled.\nThen she moved her little bottom from side to side.",
+    "sha256": "d8c1541fcabd07ca000b97c51b267365626a1463528db597bfcb8941fedc237a"
+  },
+  "assets/audio/pb-en-0732/04.mp3": {
+    "input_sha256": "28981bf4cc69dd1c2231cfe64f297d52c1d62fe4c734ffb73f65364c91191913",
+    "duration": 5.09,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Popo laughed.\nHe flapped his little wings and tapped his feet on the floor.",
+    "sha256": "d3d56e345354685aa9e9b815617ad11a5d09974a10cc336e82ae5242a437674f"
+  },
+  "assets/audio/pb-en-0728/01.mp3": {
+    "input_sha256": "42b4e74fe075325adddef93c9c863773c9281bf377c4e6917b6b1dc3db90eccb",
+    "duration": 2.728,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "This is Popo.\nPopo likes bread.",
+    "sha256": "514e96ee9ef7d699114de67b406924fb6a213faf151a480f3241a81bd07213fc"
+  },
+  "assets/audio/pb-en-0728/02.mp3": {
+    "input_sha256": "b565f8d012b7b09a9ef782e3ce9328b278806f9aaf21abccc571e2256bd4b63a",
+    "duration": 3.066,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "One coin!\nNow Popo can buy bread.",
+    "sha256": "9fafc0ed51e8adcf76c95ecc0ad86523ce1433653e144678f8cab33b8b382248"
+  },
+  "assets/audio/pb-en-0728/03.mp3": {
+    "input_sha256": "0b9f52b9a774487ef9d5d7652fbd43f73ab3424eb55133f65ff53b0a84efc43b",
+    "duration": 2.684,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "But today, the bread costs two coins.",
+    "sha256": "cd27cd1d9573a008f989b438277ee4287bc640d52e61d02b3d089ad4095676ba"
+  },
+  "assets/audio/pb-en-0728/04.mp3": {
+    "input_sha256": "803d4eb5147e195de9c7a0403f8748a1e1eca5028406eeab2e8d0a6e053b91ce",
+    "duration": 2.901,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Popo has one coin.\nNo bread today.",
+    "sha256": "2b10a8c0b34f1fce765a586ad849a6a8cb93e561a359289cb32521d0049f9130"
+  },
+  "assets/audio/pb-en-0730/01.mp3": {
+    "input_sha256": "4c54980f96c31734c2179951622a9990db35ca0fdcdbb3741c8a4382bdb15d5f",
+    "duration": 3.093,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "It is night.\nPopo and Mumu are in bed.",
+    "sha256": "ae3e2969ca176943c38aaeceb651ce21da11d236ec9dcb826f67c9c71117cf1a"
+  },
+  "assets/audio/pb-en-0730/02.mp3": {
+    "input_sha256": "29987796c86def2ddaf4d84b931e6f7ab3aea9ab8962c283cf1599000b8ef5a9",
+    "duration": 2.371,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "“Good night, Popo,” says Mumu.",
+    "sha256": "3c70ec34bac5576bad6a1e51cc02b7740d8b2b47fd7e5de9904f376a26cedccc"
+  },
+  "assets/audio/pb-en-0730/03.mp3": {
+    "input_sha256": "6c7f3f97f13b5365f2ace74b34b8657224a3e320924dabf98e39702461a579bd",
+    "duration": 2.379,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "“Good night, Mumu,” says Popo.",
+    "sha256": "074b3da958bb0da09eab9b9bf408840a91b56c25feb19d681cb25281f7adf001"
+  },
+  "assets/audio/pb-en-0730/04.mp3": {
+    "input_sha256": "03dc2206d141dfb0342c2615c3ea635721f32cb6f97131c970cfad222b29bedf",
+    "duration": 3.42,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "“Good night.”\nA voice comes from the cupboard.",
+    "sha256": "61d9b51094ef4f3c04d21fc8559e8d3bfdb6ff19ff3f1a10707a611c1be8159a"
+  },
+  "assets/audio/pb-en-0731/01.mp3": {
+    "input_sha256": "7e281ef2afc829e2f916ba5c6307de437313e1c564a1078c8ba75f514d3473f7",
+    "duration": 3.582,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Popo lifts the blanket.\nTwo small eyes look up.",
+    "sha256": "6b284ab1837827f5fdcc188bd6b98ba839c158448db001f00a95689e903c2e67"
+  },
+  "assets/audio/pb-en-0731/02.mp3": {
+    "input_sha256": "56351f19b88e246ad0fd24ff5ce5d449a2b936f26d53055fe73b0c8de9ec299f",
+    "duration": 2.386,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "It is small.\nIt is cold.",
+    "sha256": "088e6900b4ace60dce7d6b23780d37e81ba290dc5a7ee1aee882d230c989e997"
+  },
+  "assets/audio/pb-en-0731/03.mp3": {
+    "input_sha256": "cef52d514e0209dfbd7ee5044b8325faac6ac3813b7327293d44cb6b745ed479",
+    "duration": 4.246,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "“Are you cold?” asks Mumu.\nThe little one says nothing.",
+    "sha256": "fefbd793e1a05e2467c9d8cfbd70d37d3057d2e99f1b7035e4a1292920d89ff8"
+  },
+  "assets/audio/pb-en-0731/04.mp3": {
+    "input_sha256": "879a269310a6d2e124d4d60c585ccecbd9548c1eceb5a3f1da1201c2f88fb533",
+    "duration": 3.878,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Popo has a small cloth.\nHe gives it to the little one.",
+    "sha256": "b70ae8fa6ad263217f184e43a81cfaa46a39ec57bb9503b0918c2dc251ed5a71"
+  },
+  "assets/audio/pb-en-0729/01.mp3": {
+    "input_sha256": "44f36e791ea5b33dcbe19bc243fb5a5b1eb18e6e01d2f48e1feb7d9114c5ef0b",
+    "duration": 3.413,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Popo's blanket had a hole.\nAt night, he was cold.",
+    "sha256": "b4a28b25a38ac34e1621e76abd28da12711ea72f8e937623b6f3827d55d80103"
+  },
+  "assets/audio/pb-en-0729/02.mp3": {
+    "input_sha256": "ba36dc457014d69f9762fb5ae160c2f77f8aacdd6269ecd6c3d8277778c916e8",
+    "duration": 6.465,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "At the shop, a keeper said,\n“Put these leaves in a bag. Then I will give you two coins.”",
+    "sha256": "017d16710d79ee12e0621b881c08ad2102443338548c27d32530e77864c9d06d"
+  },
+  "assets/audio/pb-en-0729/03.mp3": {
+    "input_sha256": "5b1aa8c0065930215ed34090004706fddc3fd1d490ab712c27d17f505596937d",
+    "duration": 4.094,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Two coins could buy a new blanket.\nPopo would be warm.",
+    "sha256": "28d9c6def068a5954733a7499d3e61323f52bab9be7ad70c2e92d255d202bd3f"
+  },
+  "assets/audio/pb-en-0729/04.mp3": {
+    "input_sha256": "9679301b359a87f522962cd3566635f35fc811aeb0893f82368af7f9c529fb8b",
+    "duration": 4.293,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Popo worked all day.\nSome leaves were bigger than he was.",
+    "sha256": "bb451675ad0fb2857971c8ba290be7bf8a6c952d591efdef44503aeb613aeb1d"
+  },
+  "assets/audio/pb-en-0708/01.mp3": {
+    "input_sha256": "9e51372320536b2a5ff81ffab6c9619f8b0ba200bded145134e35a07390024c7",
+    "duration": 3.664,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Mugi wants a good seat. This seat is very high.",
+    "sha256": "732da1cf8643429164628c6bdad6eaf0d648cf0a8fe14a6793b74de198fac345"
+  },
+  "assets/audio/pb-en-0708/02.mp3": {
+    "input_sha256": "a28a489f46d165c6aa61b631f8228857c529ddb92985299c9bc5bcd5cd862c80",
+    "duration": 3.715,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "He gets down. “No. This is not my seat.”",
+    "sha256": "0a9c455756c9a633c3481a67791bbc6e9a3d10c9d035fc4f89d5eee95a5a69d8"
+  },
+  "assets/audio/pb-en-0708/03.mp3": {
+    "input_sha256": "c30cedea4f3e78693f1ecb920d92bd8cc0ed19958198fb7c0e1eb0d93501fab4",
+    "duration": 3.303,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "This seat is low. His knees are very high!",
+    "sha256": "0a766d0d989ea97b3f50b3e31c3fcb993f060c1bffc7799c645cbe4cd8df5905"
+  },
+  "assets/audio/pb-en-0708/04.mp3": {
+    "input_sha256": "eaec0a486ea95e9ec0ae1297a433bd15528201a0f3edd54bd3028023b71b8694",
+    "duration": 3.733,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "He sees a big seat. “This one is good!”",
+    "sha256": "a2fcf47a39570dc6b8f15a28fbcc6199c19f76b72ee8adae31a2458344cc66f0"
+  },
+  "assets/audio/pb-en-0714/01.mp3": {
+    "input_sha256": "5bce24487d5c7261c19f60d9f8cf84b68979160534d1f361f75f3ad45c6cf10d",
+    "duration": 6.466,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Every morning, Mugi looked at the round loaf in Riri's window. He liked its golden, crackly top.",
+    "sha256": "a0c6e5ae75f2172af8b27b77fc3f55f5448cd0d58e04c3e28b335aeef466f6ad"
+  },
+  "assets/audio/pb-en-0714/02.mp3": {
+    "input_sha256": "47d8351c64ecb426e95400250e3c21d953c0d106c4e46af53a542b9e2f72d2e0",
+    "duration": 5.383,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "He saved one coin after work. He wanted to buy the loaf on his next free morning.",
+    "sha256": "671816ff4a00eda7c6eeb3593cd3ee4da1d18970d5e1bacc8d664cb542ee9a47"
+  },
+  "assets/audio/pb-en-0714/03.mp3": {
+    "input_sha256": "66d62a56708d068ad494b2c1c8a880912e1aed2133d4259753bc3d6142f95a92",
+    "duration": 6.658,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "At last, he had four coins. Yesterday, the loaf had cost four. Mugi counted his money twice.",
+    "sha256": "1ebcdf1cc79f6ccca8d2008bde0a2bba340f10a6ddfae206b8888f99cdf1d35c"
+  },
+  "assets/audio/pb-en-0714/04.mp3": {
+    "input_sha256": "8a224bda3b58c74d3e155da14e4b0ed71d077cfbe9e6dfc9f9bf064d7aa0f8af",
+    "duration": 7.762,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "“One round loaf, please,” he said. Riri looked down. “It costs five coins today. I am sorry.”",
+    "sha256": "1cbc13bcf1f2643b55b7e6e53a445f20c75ba41f8d42b09a2e40c5ccd8fcab3d"
+  },
+  "assets/audio/pb-en-0715/01.mp3": {
+    "input_sha256": "23a0e5820867a577bb922b55a1cefdfc1480359ff5af9ff9d4474b642994555e",
+    "duration": 6.027,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Mugi needed a new wheel for his parcel cart. He joined the line outside the little wheel shop.",
+    "sha256": "e0b6f26030a49939ef287114efc2700d361d6c2be9caa8574e9894a316698e60"
+  },
+  "assets/audio/pb-en-0715/02.mp3": {
+    "input_sha256": "0610b55eb98b7500fbb5c94b7356571f53f23fbea3e06b10a8ffe29ddf660aaf",
+    "duration": 6.996,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "The line moved slowly. Mugi stood very straight. He had come early, and he had brought the right coins.",
+    "sha256": "a1eb544de967fd2e9c31179f4e99da1296451a6dbc6ad95b26d82213a4737c58"
+  },
+  "assets/audio/pb-en-0715/03.mp3": {
+    "input_sha256": "78d6db9becdc26feee7ee5301eab3224deb3f6b33a58aa4797ad7e958c027502",
+    "duration": 6.561,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "Tula arrived later. She bought a shiny ticket at the side window. It cost three extra coins.",
+    "sha256": "bc907cfe778b6edc69bbaf65464d6aab7a839ab90c0773a49915e435901e5ad6"
+  },
+  "assets/audio/pb-en-0715/04.mp3": {
+    "input_sha256": "0ce53db976bbe6cf58576e85a0bf6dfde44420d6f36bf7f3be41b3473c24b4a1",
+    "duration": 7.295,
+    "engine": "Supertonic 3",
+    "voice": "F1",
+    "steps": 8,
+    "speed": 1.05,
+    "text": "The ticket let her use another line. Tula went past Mugi. “See you inside,” she said, a little awkwardly.",
+    "sha256": "a16878216d6c786c3d36e2e0cd66e1c0f20a71ab04426a3690d050adc192fc0a"
+  }
+}

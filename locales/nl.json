@@ -1,0 +1,81 @@
+{
+  "language_name": "Nederlands",
+  "eyebrow": "Elke dag een beetje Engels.",
+  "hero_title": "Kleine verhalen.\nEen groeiende wereld.",
+  "hero_body": "Een glimlach. Een gevoel dat blijft. Ontdek het plezier van Engels, één prentenboek tegelijk.",
+  "browse": "Ontdek de verhalen",
+  "download": "Download in de App Store",
+  "free_note": "Gratis · In-app aankopen",
+  "nav_books": "De verhalen",
+  "nav_about": "De app",
+  "nav_faq": "Vragen",
+  "stat_books": "Engelse prentenboeken",
+  "stat_levels": "leesniveaus",
+  "stat_dict": "woordenboektalen",
+  "sample_title": "Je volgende hoofdstuk begint hier.",
+  "sample_body": "Stap in onze eigen verhalen. Lees de eerste pagina’s en luister naar de Engelse vertelling.",
+  "popo_title": "Popo, Mumu en kleine Nemu.",
+  "popo_body": "Een gedeeld broodje. Een onverwachte bezoeker. Een dans op een regendag. Drie kleine vrienden en hun alledaagse momenten.",
+  "mallow_title": "Dit is Mugi.\nWelkom in Mallow Town.",
+  "mallow_body": "Een vriendelijke capibara, een klein stadje en de dingen die ertoe doen. Warme, soms bitterzoete verhalen.",
+  "read_sample": "Lees en luister",
+  "sample_note": "Bekijk de eerste 4 pagina’s van elk boek. Tekst en vertelling zijn in het Engels.",
+  "about_title": "Een beetje lezen.\nEen beetje meer vertrouwen.",
+  "faq_title": "Een paar kleine antwoorden.",
+  "q1": "Is de app gratis?",
+  "a1": "Ja. Alle boeken zijn gratis te lezen. De app toont kleine advertentiebanners. Elke steunaankoop verwijdert de advertenties. Geen account nodig.",
+  "q2": "Kan ik offline lezen?",
+  "a2": "Boeken en woordenboeken zitten in de app en werken offline. De hoogwaardige stem vereist een eenmalige download. Verhalen en audio op de website hebben internet nodig.",
+  "q3": "In welke taal zijn de boeken?",
+  "a3": "De boeken en vertelling zijn in het Engels. De app ondersteunt 22 taalvarianten en woordbetekenissen in 20 talen.",
+  "closing_title": "Een paar pagina’s vandaag.\nEen nieuwe wereld morgen.",
+  "closing_body": "Begin met een verhaal. Een paar rustige minuten, op jouw tempo, is alles wat je nodig hebt.",
+  "support": "Ondersteuning",
+  "privacy": "Privacy",
+  "credits": "Verhalen en credits",
+  "choose_language": "Kies je taal",
+  "close": "Sluiten",
+  "previous": "Vorige pagina",
+  "next": "Volgende pagina",
+  "listen": "Luister naar het verhaal",
+  "pause": "Pauzeren",
+  "audio_notice": "De Engelse vertelling gebruikt dezelfde AI-stem als de app.",
+  "sample_end": "Dit is het einde van het fragment. Ontdek de rest in de app.",
+  "read_full": "Lees verder in de app",
+  "page": "Pagina",
+  "audio_error": "De audio kon niet worden afgespeeld. Probeer opnieuw.",
+  "skip": "Naar de inhoud",
+  "real_screen": "Echt appscherm: tik op een woord om de betekenis te zien.",
+  "app_locale": "nl-NL",
+  "summaries": [
+    "Een regendag wordt een dans voor drie.",
+    "Eén broodje, twee vrienden en een beetje vriendelijkheid.",
+    "Welterusten. Maar waar kwam die stem vandaan?",
+    "Twee kleine ogen kijken onder een deken vandaan.",
+    "Werk in de regen en de hoop op een warme deken.",
+    "Waar vindt Mugi een fijne plek om te zitten?",
+    "Het brood waarvoor Mugi spaarde, kost vandaag meer.",
+    "Wat vindt Mugi aan het einde van een lange rij?"
+  ],
+  "page_title": "Story Leaf — Kleine verhalen. Een groeiende wereld.",
+  "meta_description": "Een glimlach. Een gevoel dat blijft. Ontdek het plezier van Engels, één prentenboek tegelijk. 842 Engelse prentenboeken, helemaal offline. Tik op een woord en zie de betekenis in het Nederlands. Met voorlezen, niveaus.",
+  "about_body": "Met Story Leaf raak je vertrouwd met Engels door veel makkelijke prentenboeken te lezen.",
+  "features": [
+    {
+      "title": "Tik op een woord – in jouw taal",
+      "body": "Tik op een Engels woord in de tekst en de betekenis verschijnt in jouw taal."
+    },
+    {
+      "title": "Natuurlijk klinkend voorlezen",
+      "body": "De boeken worden voorgelezen met natuurlijke uitspraak ."
+    },
+    {
+      "title": "De app groeit met je mee",
+      "body": "Na elk boek kies je alleen hoe moeilijk en hoe leuk het was."
+    },
+    {
+      "title": "Gemaakt om vol te houden",
+      "body": "Een Story Tree die groeit bij elk uitgelezen boek, plus titels voor gelezen boeken, gelezen woorden, dagen op rij en voltooide genres."
+    }
+  ]
+}

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#f7f5ef">
+  <meta name="theme-color" content="#f8cf51">
   <title>{{page_title}}</title>
   <meta name="description" content="{{meta_description}}">
   <meta name="apple-itunes-app" content="app-id=6799618264">
@@ -34,7 +34,7 @@
     <div class="header-actions"><button class="language-button" type="button" data-open-languages aria-label="{{choose_language}}"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c5 5 5 13 0 18-5-5-5-13 0-18Z"/></svg><span>{{language_name}}</span><span aria-hidden="true">⌄</span></button><a class="button small header-download" href="{{store_url}}">{{download}}<span aria-hidden="true">↗</span></a></div>
   </header>
   <main id="main">
-    <section class="hero wrap">
+    <div class="hero-stage"><section class="hero wrap">
       <div class="hero-copy">
         <p class="eyebrow"><span class="seed" aria-hidden="true"></span>{{eyebrow}}</p>
         <h1>{{hero_title}}</h1>
@@ -49,8 +49,8 @@
         <span class="gallery-footnote" aria-hidden="true">Little stories, lasting feelings.</span>
         <span class="sketch-star" aria-hidden="true">✳</span>
       </div>
-    </section>
-    <div class="facts wrap"><p><strong>842</strong><span>{{stat_books}}</span></p><span class="fact-divider" aria-hidden="true"></span><p><strong>4</strong><span>{{stat_levels}}</span></p><span class="fact-divider" aria-hidden="true"></span><p><strong>20</strong><span>{{stat_dict}}</span></p><span class="facts-signature" aria-hidden="true">Read a little.<br>Grow a little.</span></div>
+    </section></div>
+    <div class="facts-band"><div class="facts wrap"><p><strong>842</strong><span>{{stat_books}}</span></p><span class="fact-divider" aria-hidden="true"></span><p><strong>4</strong><span>{{stat_levels}}</span></p><span class="fact-divider" aria-hidden="true"></span><p><strong>20</strong><span>{{stat_dict}}</span></p><span class="facts-signature" aria-hidden="true">Read a little.<br>Grow a little.</span></div></div>
 
     <section id="stories" class="stories wrap">
       <div class="section-heading"><div><p class="eyebrow">THE ORIGINAL COLLECTION</p><h2>{{sample_title}}</h2></div><p>{{sample_body}}</p></div>
@@ -63,7 +63,7 @@
     </section>
 
     <section id="faq" class="faq wrap"><div><p class="eyebrow">A FEW LITTLE ANSWERS</p><h2>{{faq_title}}</h2></div><div class="faq-list">{{faqs}}</div></section>
-    <section class="closing wrap"><div class="closing-art"><img src="../assets/books/pb-en-0728/cover.webp" alt="Popo &amp; Mumu — Half a Roll" loading="lazy" width="960" height="640"></div><div class="closing-copy"><p class="eyebrow">YOUR NEXT CHAPTER</p><h2>{{closing_title}}</h2><p>{{closing_body}}</p><a class="button store-button" href="{{store_url}}">{{download}} <span aria-hidden="true">↗</span></a><p class="store-note">iPhone &amp; iPad · {{free_note}}</p></div></section>
+    <div class="closing-stage"><section class="closing wrap"><div class="closing-art"><img src="../assets/books/pb-en-0728/cover.webp" alt="Popo &amp; Mumu — Half a Roll" loading="lazy" width="960" height="640"></div><div class="closing-copy"><p class="eyebrow">YOUR NEXT CHAPTER</p><h2>{{closing_title}}</h2><p>{{closing_body}}</p><a class="button store-button" href="{{store_url}}">{{download}} <span aria-hidden="true">↗</span></a><p class="store-note">iPhone &amp; iPad · {{free_note}}</p></div></section></div>
   </main>
   <footer class="footer wrap"><div class="footer-top"><a class="brand" href="./"><img src="../assets/icon-64.png" alt="" width="32" height="32"><span>Story Leaf<span class="brand-dot">.</span></span></a><p lang="en">Small stories. A growing world.</p><nav><a href="https://ki-84.github.io/story_leaf_support/en/">{{support}} <span class="external-language">(English)</span></a><a href="https://ki-84.github.io/story_leaf_support/en/privacy.html">{{privacy}} <span class="external-language">(English)</span></a><button type="button" data-open-credits>{{credits}}</button></nav></div><div class="footer-bottom"><small>© 2026 Nobuaki Kuwabara. All rights reserved.</small><button type="button" data-open-languages>{{choose_language}} <span aria-hidden="true">↗</span></button><small>iOS / iPadOS 17+</small></div></footer>
   <dialog id="languages" class="language-dialog"><div class="dialog-heading"><h2>{{choose_language}}</h2><button type="button" class="icon-button" data-close-dialog aria-label="{{close}}">×</button></div><div class="language-grid">{{language_links}}</div></dialog>

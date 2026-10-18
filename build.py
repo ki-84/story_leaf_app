@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build dependency-free, localized static pages for GitHub Pages."""
 import argparse
+import hashlib
 import html
 import json
 import re
@@ -25,10 +26,13 @@ def script_json(value):
 
 def render_card(book, summary, ui):
     title = escape(book["title"])
+    series = 'POPO, MUMU &amp; NEMU' if book['series'] == 'popo' else 'MALLOW TOWN'
+    if book['series'] == 'mallow':
+        summary = ui['mallow_body']
     return f'''<article class="book-card">
       <button class="book-cover" type="button" data-book="{book['id']}" aria-label="{escape(ui['read_sample'])}: {title}"><img src="../{book['cover']}" alt="{title}" width="960" height="{'640' if book['series'] == 'popo' else '960'}" loading="lazy"></button>
-      <div class="book-meta" lang="en" dir="ltr"><span>LEVEL {book['level']}</span><span>{book['words']} WORDS</span></div>
-      <h4 lang="en" dir="ltr">{title}</h4><p>{escape(summary)}</p>
+      <div class="book-meta" lang="en" dir="ltr"><span class="book-series">{series}</span><span>LEVEL {book['level']} · {book['words']} WORDS</span></div>
+      <h3 class="book-title" lang="en" dir="ltr">{title}</h3><p>{escape(summary)}</p>
       <button class="text-button" type="button" data-book="{book['id']}">{escape(ui['read_sample'])}<span aria-hidden="true">↗</span></button>
     </article>'''
 
@@ -44,8 +48,13 @@ def main():
         shutil.rmtree(output)
     output.mkdir()
     shutil.copytree(ROOT / "assets", output / "assets")
+    asset_names = {}
     for file in ("style.css", "app.js"):
-        shutil.copyfile(ROOT / "src" / file, output / file)
+        source = ROOT / 'src' / file
+        digest = hashlib.sha256(source.read_bytes()).hexdigest()[:12]
+        filename = f'{source.stem}-{digest}{source.suffix}'
+        asset_names[file] = filename
+        shutil.copyfile(source, output / filename)
     locales = {locale: json.loads((ROOT / "locales" / f"{locale}.json").read_text()) for locale in LOCALE_ORDER}
     books = json.loads((ROOT / "data/books.json").read_text())
     assert tuple(book["id"] for book in books) == PUBLIC_BOOK_IDS
@@ -53,14 +62,17 @@ def main():
     for locale, ui in locales.items():
         fields = {key: escape(value) for key, value in ui.items() if isinstance(value, str)}
         fields.update(locale=locale, direction="rtl" if locale == "ar" else "ltr", store_url=STORE_URL,
-                      canonical=base_url + locale + "/", base_url=base_url)
+                      canonical=base_url + locale + "/", base_url=base_url,
+                      stylesheet=asset_names['style.css'], app_script=asset_names['app.js'])
+        if locale == 'ja' and '、' in ui['sample_title']:
+            first, last = ui['sample_title'].split('、', 1)
+            fields['sample_title'] = ''.join(f'<span class="heading-phrase">{escape(part)}</span>' for part in (first + '、', last))
         fields["alternates"] = "\n  ".join(f'<link rel="alternate" hreflang="{loc}" href="{base_url}{loc}/">' for loc in LOCALE_ORDER)
         fields["alternates"] += f'\n  <link rel="alternate" hreflang="x-default" href="{base_url}">'
         fields["language_links"] = "".join('<a href="../{loc}/" lang="{loc}" hreflang="{loc}" dir="auto" {current}>{name}</a>'.format(loc=loc, current='aria-current="page"' if loc == locale else '', name=escape(locales[loc]['language_name'])) for loc in LOCALE_ORDER)
         assert len(ui["summaries"]) == len(books)
         cards = [render_card(book, summary, ui) for book, summary in zip(books, ui["summaries"])]
-        fields["popo_cards"] = "\n".join(card for card, book in zip(cards, books) if book["series"] == "popo")
-        fields["mallow_cards"] = "\n".join(card for card, book in zip(cards, books) if book["series"] == "mallow")
+        fields["book_cards"] = "\n".join(cards)
         fields["features"] = "".join(f'<div class="feature"><span aria-hidden="true">{icon}</span><div><h3>{escape(feature["title"])}</h3><p>{escape(feature["body"])}</p></div></div>' for icon, feature in zip(["♪", "Aa", "↗", "❧"], ui["features"]))
         fields["faqs"] = "".join(f'<details><summary>{escape(ui[f"q{i}"])}</summary><p>{escape(ui[f"a{i}"])}</p></details>' for i in (1, 2, 3))
         fields["site_data"] = script_json({"books": books, "ui": {key: ui[key] for key in ("listen", "pause", "page")}})
@@ -85,9 +97,9 @@ def main():
     root = '''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Story Leaf — Choose your language</title><meta name="description" content="English picture books. Original stories to read and listen to. Choose from 22 languages."><link rel="icon" href="assets/icon-64.png"><link rel="stylesheet" href="style.css"><link rel="canonical" href="BASE_URL"></head><body><main class="wrap" style="padding-block:60px"><a class="brand" href="en/">Story Leaf.</a><h1 style="margin-block:30px">Small stories. A growing world.</h1><nav class="language-grid" aria-label="Choose your language">LINKS</nav></main><script>
     (()=>{const supported=LOCALES;let saved;try{saved=localStorage.getItem('storyleaf-language')}catch(_){}function match(value){const code=value.toLowerCase();const exact=supported.find(x=>x.toLowerCase()===code);if(exact)return exact;if(code.startsWith('zh'))return /hant|tw|hk|mo/.test(code)?'zh-Hant':'zh-Hans';if(code.startsWith('pt'))return code==='pt-pt'?'pt-PT':'pt-BR';return supported.find(x=>x===code.split('-')[0]);}const preferred=supported.includes(saved)?saved:(navigator.languages||[navigator.language||'en']).map(match).find(Boolean)||'en';location.replace(new URL(preferred+'/',location.href).href+location.search+location.hash);})();
     </script></body></html>'''
-    root = root.replace("BASE_URL", escape(base_url)).replace("LINKS", links).replace("LOCALES", script_json(LOCALE_ORDER))
+    root = root.replace("BASE_URL", escape(base_url)).replace("LINKS", links).replace("LOCALES", script_json(LOCALE_ORDER)).replace('href="style.css"', f'href="{asset_names["style.css"]}"')
     (output / "index.html").write_text(root)
-    (output / "404.html").write_text(f'''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Story Leaf — Page not found</title><link rel="stylesheet" href="{base_url}style.css"><main class="wrap" style="padding-block:80px"><p>Story Leaf.</p><h1>Let's find your next story.</h1><p><a class="text-button" href="{base_url}">Choose your language ↗</a></p></main></html>''')
+    (output / "404.html").write_text(f'''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Story Leaf — Page not found</title><link rel="stylesheet" href="{base_url}{asset_names['style.css']}"><main class="wrap" style="padding-block:80px"><p>Story Leaf.</p><h1>Let's find your next story.</h1><p><a class="text-button" href="{base_url}">Choose your language ↗</a></p></main></html>''')
     (output / ".nojekyll").touch()
     (output / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base_url}sitemap.xml\n")
     sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + ''.join(f'<url><loc>{base_url}{locale}/</loc></url>' for locale in [""] + LOCALE_ORDER) + '</urlset>\n'

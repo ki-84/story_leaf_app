@@ -81,6 +81,9 @@ def main():
         source = (PUBLIC / locale / "index.html")
         content = source.read_text()
         assert "{{" not in content
+        assert 'href="../style.css"' not in content, 'Styles must have versioned filenames to avoid stale layouts'
+        assert 'class="book-grid collection-grid"' in content
+        assert content.count('class="book-card"') == len(PUBLIC_BOOK_IDS)
         page = Page()
         page.feed(content)
         assert page.lang == locale

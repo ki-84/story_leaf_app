@@ -22,9 +22,9 @@
   <link rel="icon" type="image/png" href="../assets/icon-64.png">
   <link rel="apple-touch-icon" href="../assets/icon-192.png">
   <link rel="preload" as="image" href="../assets/books/pb-en-0732/cover.webp" fetchpriority="high">
-  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../{{stylesheet}}">
   <script type="application/ld+json">{{structured_data}}</script>
-  <script src="../app.js" defer></script>
+  <script src="../{{app_script}}" defer></script>
 </head>
 <body>
   <a class="skip" href="#main">{{skip}}</a>
@@ -54,10 +54,8 @@
 
     <section id="stories" class="stories wrap">
       <div class="section-heading"><div><p class="eyebrow">THE ORIGINAL COLLECTION</p><h2>{{sample_title}}</h2></div><p>{{sample_body}}</p></div>
-      <div class="series-heading"><span class="series-number">01 /</span><div><h3>{{popo_title}}</h3><p>{{popo_body}}</p></div><span class="series-tag" lang="en">POPO, MUMU &amp; NEMU</span></div>
-      <div class="book-grid popo-grid">{{popo_cards}}</div>
+      <div class="book-grid collection-grid">{{book_cards}}</div>
       <p class="sample-note"><span aria-hidden="true">◖◗</span>{{sample_note}}</p>
-      <div class="mallow-section"><div class="mallow-intro"><p class="eyebrow">02 / MALLOW TOWN</p><h3>{{mallow_title}}</h3><p>{{mallow_body}}</p><svg class="botanical" viewBox="0 0 120 100" aria-hidden="true"><path d="M32 94c15-32 28-57 60-82M49 64c-25 1-32-16-30-30 21 1 33 10 30 30Zm17-22c-16-9-14-28-8-37 17 9 20 22 8 37Zm-10 9c15-17 37-12 43-2-16 16-32 18-43 2Zm-16 30c15-19 33-14 43-5-10 15-31 18-43 5Z"/></svg></div><div class="book-grid mallow-grid">{{mallow_cards}}</div></div>
     </section>
 
     <section id="experience" class="experience">

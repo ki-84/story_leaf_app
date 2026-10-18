@@ -1649,6 +1649,10 @@ html[lang="ja"] h2 {
 .sample-note { font-size:10px; color:var(--muted); display:flex; align-items:center; gap:9px; margin-top:21px; }
 .sample-note>span { font-size:15px; color:#8d997d; }
 .experience { background:#e9ede3; padding-block:60px; }
+.app-reading-link { margin-top:25px; font-size:15px; min-height:56px; padding-inline:25px; }
+.reader-end { background:#e9ede3; border:1px solid #d4ddcc; border-radius:7px; padding:18px; margin-top:22px; }
+.reader-end p { font-size:13px; line-height:1.8; }
+.reader-app-cta { display:flex; width:100%; min-height:64px; font-size:17px; font-weight:650; padding:17px 18px; margin-top:14px; gap:16px; text-align:center; }
 .app-visual { position:relative; min-height:550px; display:flex; align-items:center; justify-content:center; isolation:isolate; }
 .faq { padding-block:64px; display:grid; grid-template-columns:1fr 1.45fr; gap:60px; }
 .closing { display:grid; grid-template-columns:1fr 1fr; align-items:center; padding-bottom:64px; gap:60px; }
